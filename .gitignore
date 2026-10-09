@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and tool state
+.vscode/
+.idea/
+.obsidian/
+*.swp
+*~
+
+# Local AI assistant state (keep CLAUDE.md and AGENTS.md; ignore session caches)
+.claude/settings.local.json
+
+# Temporary and backup files
+*.tmp
+*.bak
+_to_delete/
