@@ -5,7 +5,7 @@ For when you want to test two approaches on your own dog instead of taking anyon
 ## Before you start
 
 - Pick **one behavior** and define it so two people would agree whether it happened. Not "better recall" but "front feet reach me within 5 seconds of one cue, from 10 metres, with another person standing nearby."
-- Pick **one main number** from `measurement-sheet.md` (speed, first-try rate, threshold distance).
+- Pick **one main number** from [`measurement-sheet.md`](measurement-sheet.md) (speed, first-try rate, threshold distance).
 - Pick **one welfare number** too: stress signals per session, or the 0 to 5 stress score. A method that works but stresses the dog is not a win.
 
 ## Rules for a fair test
@@ -46,7 +46,7 @@ Measured speed and first-try rate, recorded stress behaviors from video, and had
 
 ## Related pages
 
-- `measurement-sheet.md`
-- `guide/02-methods/overview-and-comparison.md`
+- [`measurement-sheet.md`](measurement-sheet.md)
+- [`guide/02-methods/overview-and-comparison.md`](../02-methods/overview-and-comparison.md)
 
-Evidence: C-01, C-08 (see evidence/claims.md)
+Evidence: C-01, C-08 (see [evidence/claims.md](../../evidence/claims.md))

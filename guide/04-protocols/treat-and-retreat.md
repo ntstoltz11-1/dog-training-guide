@@ -51,4 +51,4 @@ The dog retreats and does not come back, or stops eating. The visitor backs up o
 - The dog has bitten a visitor
 - The dog cannot eat with anyone else in the room
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

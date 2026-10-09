@@ -55,4 +55,4 @@ If the dog cannot engage with the game, the trigger is too close. Add distance, 
 
 - The dog cannot eat in any public place
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

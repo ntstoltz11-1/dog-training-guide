@@ -49,7 +49,7 @@ Re-measure every two weeks. The number that moves (distance, seconds, recovery t
 
 ## Related pages
 
-- `measurement-sheet.md`
-- `household-plan.md`
+- [`measurement-sheet.md`](measurement-sheet.md)
+- [`household-plan.md`](household-plan.md)
 
 Evidence: none required; this is a tool.

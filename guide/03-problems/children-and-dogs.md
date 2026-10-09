@@ -19,15 +19,15 @@ Most dog bites to children come from a dog the child knows, at home, during ordi
 
 ## What to watch for
 
-Read `guide/01-start-here/body-language-and-threshold.md` and look for these around children in particular: the dog turning its head away, lip licking, yawning, getting up and leaving, a closed mouth, "whale eye", freezing. Each is the dog saying "enough". Act on the first one, before the growl.
+Read [`guide/01-start-here/body-language-and-threshold.md`](../01-start-here/body-language-and-threshold.md) and look for these around children in particular: the dog turning its head away, lip licking, yawning, getting up and leaving, a closed mouth, "whale eye", freezing. Each is the dog saying "enough". Act on the first one, before the growl.
 
-If the dog growls at a child: thank the dog silently, remove the child calmly, and change the setup so it does not happen again. Never punish the growl. See `aggression.md`.
+If the dog growls at a child: thank the dog silently, remove the child calmly, and change the setup so it does not happen again. Never punish the growl. See [`aggression.md`](aggression.md).
 
 ## Do this (for the dog)
 
-1. Pair children with good things from a distance: a child appears, the dog gets chicken. Card: `guide/04-protocols/counterconditioning-and-desensitization.md`.
-2. Teach a solid "go to your mat" so the dog has somewhere to be during chaos. Card: `guide/04-protocols/relaxation-protocol.md`.
-3. Build handling tolerance with cooperative care, by adults first. `cooperative-care.md`.
+1. Pair children with good things from a distance: a child appears, the dog gets chicken. Card: [`guide/04-protocols/counterconditioning-and-desensitization.md`](../04-protocols/counterconditioning-and-desensitization.md).
+2. Teach a solid "go to your mat" so the dog has somewhere to be during chaos. Card: [`guide/04-protocols/relaxation-protocol.md`](../04-protocols/relaxation-protocol.md).
+3. Build handling tolerance with cooperative care, by adults first. [`cooperative-care.md`](cooperative-care.md).
 4. Give the dog daily time away from the children: a walk, a chew behind a gate, a nap in its space.
 
 ## Do this (for the child)
@@ -49,8 +49,8 @@ If the dog growls at a child: thank the dog silently, remove the child calmly, a
 
 ## Related pages
 
-- `aggression.md`
-- `resource-guarding.md`
-- `guide/06-tools/household-plan.md`
+- [`aggression.md`](aggression.md)
+- [`resource-guarding.md`](resource-guarding.md)
+- [`guide/06-tools/household-plan.md`](../06-tools/household-plan.md)
 
-Evidence: C-03, C-11, C-22, C-28 (see evidence/claims.md)
+Evidence: C-03, C-11, C-22, C-28 (see [evidence/claims.md](../../evidence/claims.md))

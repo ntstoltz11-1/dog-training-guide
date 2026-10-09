@@ -9,7 +9,7 @@ Chewing is normal; dogs explore and self-soothe with their mouths. It becomes a 
 
 ## Before you start
 
-- Video the dog when it is alone. Chewing that starts within minutes of your leaving, aimed at exits, is `separation-anxiety.md`.
+- Video the dog when it is alone. Chewing that starts within minutes of your leaving, aimed at exits, is [`separation-anxiety.md`](separation-anxiety.md).
 - Dog-proof. Shoes in a closet, cords covered, a gate on the room with the good furniture. Every unsupervised chew of the sofa is a rewarding lesson.
 - Buy legal chews of several textures: rubber toys that hold food, edible chews, a frozen stuffed toy for teething puppies.
 
@@ -37,7 +37,7 @@ Puppies grow out of teething by about 7 months; the habit of chewing allowed ite
 
 ## Related pages
 
-- `separation-anxiety.md`
-- `puppy-mouthing.md`
+- [`separation-anxiety.md`](separation-anxiety.md)
+- [`puppy-mouthing.md`](puppy-mouthing.md)
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

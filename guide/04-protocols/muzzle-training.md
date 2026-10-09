@@ -50,4 +50,4 @@ Pawing at the muzzle, backing away, refusing to put the nose in. Go back a step 
 
 - The dog bites when the muzzle comes out (a professional can shape this safely)
 
-Evidence: C-22, C-28 (see evidence/claims.md)
+Evidence: C-22, C-28 (see [evidence/claims.md](../../evidence/claims.md))

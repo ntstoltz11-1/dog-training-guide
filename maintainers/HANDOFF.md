@@ -5,7 +5,7 @@
 ## Where things stand
 
 - **Verified against primary sources (28 of 55):** session 03 added the twelve core comparative studies, S-01, S-02, S-03, S-07, S-08, S-09, S-10, S-11, S-12, S-17, S-18, S-19. All located by DOI or PubMed. No grade changed.
-- **Seven corrections logged** in `maintainers/CHANGELOG.md`. Largest: S-09 was mis-attributed ("Elliffe"; it is Sargisson and McLean 2021), and the old claim that the critique "did not reverse" the recall finding had no basis. C-34 now says the finding is disputed. S-07 and S-08 are one 63-dog dataset. S-18 had eleven wrong co-authors.
+- **Seven corrections logged** in [`maintainers/CHANGELOG.md`](CHANGELOG.md). Largest: S-09 was mis-attributed ("Elliffe"; it is Sargisson and McLean 2021), and the old claim that the critique "did not reverse" the recall finding had no basis. C-34 now says the finding is disputed. S-07 and S-08 are one 63-dog dataset. S-18 had eleven wrong co-authors.
 - **Guide pages edited:** 02/overview, 02/balanced, 02/dominance, 03/recall, 03/aggression, 03/separation, 05/breed, 01/common-myths, 06/medication-conversation. Reader wording now matches the studies.
 - **Two full-text checks still open** (TASKS priority 1): Herron 2009 Fig. 3 reward-method figures; Simpson 2007 trial counts (242/197 vs FDA 229/188).
 - **Not yet pushed to GitHub.** Nothing in the repo depends on it, but the public copy does not exist yet.
@@ -14,8 +14,8 @@
 
 1. Nick: `git init`, first commit, push to GitHub, confirm README and tables render. Decide whether `research/` stays public (default: yes).
 2. Verification pass 3: the two full-text follow-ups, then priority 2 (Demant, Meyer and Ladewig, Asher, Korpivaara 2017, Engel, Ziv, Guilherme Fernandes, Deldalle and Gaunet, AVSAB, certification bodies, European statutes).
-3. Nick test-reads `decision-tree.md` and `children-and-dogs.md` cold.
-4. Consider body-language diagrams (`TASKS.md` Build).
+3. Nick test-reads [`decision-tree.md`](../guide/01-start-here/decision-tree.md) and [`children-and-dogs.md`](../guide/03-problems/children-and-dogs.md) cold.
+4. Consider body-language diagrams ([`TASKS.md`](TASKS.md) Build).
 
 ## Retro (session 03)
 

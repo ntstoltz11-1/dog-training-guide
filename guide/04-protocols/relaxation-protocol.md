@@ -58,4 +58,4 @@ The dog gets up more than once or twice, or lies alert and stiff. Repeat the pre
 
 - The dog cannot lie down in a quiet room at all (check for pain)
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

@@ -1,6 +1,6 @@
 # Open questions
 
-Unverified assumptions the guide currently relies on. Delete a row when answered; write the answer where it belongs (claims.md, legal-status.md, or the guide page) and log any grade change in `maintainers/CHANGELOG.md`.
+Unverified assumptions the guide currently relies on. Delete a row when answered; write the answer where it belongs (claims.md, legal-status.md, or the guide page) and log any grade change in [`maintainers/CHANGELOG.md`](../maintainers/CHANGELOG.md).
 
 | Question | Why it matters | Where it is used | Default if unresolved |
 |---|---|---|---|

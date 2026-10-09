@@ -41,4 +41,4 @@ Hitting, kicking, and hanging by the collar may constitute offenses under genera
 
 ## Correction log
 
-- 2026-10-08: England recorded as not banned, correcting the widespread "banned from 2024-02-01" belief. See `maintainers/CHANGELOG.md`.
+- 2026-10-08: England recorded as not banned, correcting the widespread "banned from 2024-02-01" belief. See [`maintainers/CHANGELOG.md`](../maintainers/CHANGELOG.md).

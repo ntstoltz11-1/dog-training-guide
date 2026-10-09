@@ -31,15 +31,15 @@ One page to compare the main styles before you pick a trainer, a class, or an ap
 
 - You want to teach skills and manners: reward-based.
 - Your dog is fearful, reactive, or anxious: reward-based plus the games and choice approaches, with a vet involved.
-- A trainer proposes corrections: ask what the dog did to get them, and read `balanced-training.md` first.
-- A trainer talks about dominance or being the alpha: read `dominance-and-compulsion.md`, then keep looking.
+- A trainer proposes corrections: ask what the dog did to get them, and read [`balanced-training.md`](balanced-training.md) first.
+- A trainer talks about dominance or being the alpha: read [`dominance-and-compulsion.md`](dominance-and-compulsion.md), then keep looking.
 
 ## Pages in this section
 
-- `reward-based-training.md`
-- `lima-and-the-humane-hierarchy.md`
-- `balanced-training.md`
-- `dominance-and-compulsion.md`
-- `relationship-games-and-choice.md`
+- [`reward-based-training.md`](reward-based-training.md)
+- [`lima-and-the-humane-hierarchy.md`](lima-and-the-humane-hierarchy.md)
+- [`balanced-training.md`](balanced-training.md)
+- [`dominance-and-compulsion.md`](dominance-and-compulsion.md)
+- [`relationship-games-and-choice.md`](relationship-games-and-choice.md)
 
-Evidence: C-01, C-02, C-03, C-04, C-05, C-06, C-13, C-27, C-34 (see evidence/claims.md)
+Evidence: C-01, C-02, C-03, C-04, C-05, C-06, C-13, C-27, C-34 (see [evidence/claims.md](../../evidence/claims.md))

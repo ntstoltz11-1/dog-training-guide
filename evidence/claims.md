@@ -1,6 +1,6 @@
 # Claims
 
-One row per claim made in `guide/`. Grade per `maintainers/evidence-grading.md`. `Used in` lists guide pages by short path. "Verified" in Notes means the claim was checked against the primary source (see `sources.md`); rows without it are not yet verified.
+One row per claim made in `guide/`. Grade per [`maintainers/evidence-grading.md`](../maintainers/evidence-grading.md). `Used in` lists guide pages by short path. "Verified" in Notes means the claim was checked against the primary source (see [`sources.md`](sources.md)); rows without it are not yet verified.
 
 | ID | Claim | Grade | Sources | Used in | Notes |
 |---|---|---|---|---|---|

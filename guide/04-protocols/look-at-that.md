@@ -50,4 +50,4 @@ The dog stares and does not turn back within 2 or 3 seconds, stops eating, or st
 - The dog cannot look away at any distance
 - The trigger is a person and the dog has bitten before
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

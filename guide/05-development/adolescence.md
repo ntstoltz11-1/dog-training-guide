@@ -23,7 +23,7 @@ In plain terms: your dog is not ignoring everyone, just you, and it passes.
 4. **Protect the relationship.** Play, sniffing walks, calm time together. The study points to attachment as the buffer.
 5. **Manage.** Gates, leashes, and crates prevent the big mistakes (counter-surfing, bolting, fights at the park).
 6. **Keep socializing**, carefully. A second sensitive period for fear can appear in adolescence; new scary things need the same gentle approach as in puppyhood.
-7. **Sleep and arousal.** Adolescents often need more rest than they take. See `guide/03-problems/impulse-control-and-overarousal.md`.
+7. **Sleep and arousal.** Adolescents often need more rest than they take. See [`guide/03-problems/impulse-control-and-overarousal.md`](../03-problems/impulse-control-and-overarousal.md).
 
 ## Avoid this
 
@@ -37,8 +37,8 @@ Most dogs settle noticeably between 12 and 18 months, later in large breeds. The
 
 ## Related pages
 
-- `puppies-and-socialization.md`
-- `guide/03-problems/recall.md`
-- `guide/03-problems/impulse-control-and-overarousal.md`
+- [`puppies-and-socialization.md`](puppies-and-socialization.md)
+- [`guide/03-problems/recall.md`](../03-problems/recall.md)
+- [`guide/03-problems/impulse-control-and-overarousal.md`](../03-problems/impulse-control-and-overarousal.md)
 
-Evidence: C-10 (see evidence/claims.md)
+Evidence: C-10 (see [evidence/claims.md](../../evidence/claims.md))

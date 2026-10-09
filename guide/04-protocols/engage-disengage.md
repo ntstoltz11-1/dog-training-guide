@@ -53,4 +53,4 @@ Staring longer than 3 seconds on most reps, refusing food, or stiffening. Add di
 - No distance works
 - The dog has bitten over this trigger
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

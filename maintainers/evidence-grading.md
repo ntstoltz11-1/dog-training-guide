@@ -1,6 +1,6 @@
 # Evidence grading
 
-Every claim in `evidence/claims.md` carries one grade. The grade appears in words on every guide page that uses the claim.
+Every claim in [`evidence/claims.md`](../evidence/claims.md) carries one grade. The grade appears in words on every guide page that uses the claim.
 
 ## The four grades
 
@@ -15,9 +15,9 @@ Every claim in `evidence/claims.md` carries one grade. The grade appears in word
 
 1. Grade the **claim**, not the study. A strong study can support a thin claim if the claim goes beyond what was tested.
 2. Correlational findings cap at **Moderate** no matter how many agree, because owners self-select methods.
-3. A **published critique** does not lower the grade by itself; it is recorded in the claim's Notes column. If the critique overturns the finding, the grade changes and `CHANGELOG.md` gets an entry.
+3. A **published critique** does not lower the grade by itself; it is recorded in the claim's Notes column. If the critique overturns the finding, the grade changes and [`CHANGELOG.md`](CHANGELOG.md) gets an entry.
 4. **Laboratory or working-dog samples** get a Notes flag ("lab dogs" or "guide-dog candidates") because generalization to pet dogs is inferred.
-5. **Legal facts** are not graded. They carry a confidence level (High / Moderate / Low) and a last-verified date in `evidence/legal-status.md`.
+5. **Legal facts** are not graded. They carry a confidence level (High / Moderate / Low) and a last-verified date in [`evidence/legal-status.md`](../evidence/legal-status.md).
 6. **Numbers in protocol cards** (seconds, repetitions, distances) default to Consensus unless a study tested that number.
 7. When two sources **disagree**, the claim states both and the grade reflects the weaker side. The disagreement is named on the guide page in one sentence.
 
@@ -25,6 +25,6 @@ Every claim in `evidence/claims.md` carries one grade. The grade appears in word
 
 | Trigger | Action |
 |---|---|
-| Source cannot be located on verification | Grade drops to Thin; `TASKS.md` row; guide page label updated |
-| Retraction or failed replication found | Grade reassessed; `CHANGELOG.md` entry |
+| Source cannot be located on verification | Grade drops to Thin; [`TASKS.md`](TASKS.md) row; guide page label updated |
+| Retraction or failed replication found | Grade reassessed; [`CHANGELOG.md`](CHANGELOG.md) entry |
 | Claim found to overstate the study | Rewrite claim to match the study; regrade |

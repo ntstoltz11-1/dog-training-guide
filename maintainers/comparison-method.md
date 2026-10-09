@@ -1,6 +1,6 @@
 # Comparison method
 
-How to run and record a fair comparison between two training approaches for one behavior. The reader-facing version is `guide/06-tools/method-comparison-worksheet.md`; this file holds the design rules an agent applies when helping a reader set one up or when writing a comparison into the guide.
+How to run and record a fair comparison between two training approaches for one behavior. The reader-facing version is [`guide/06-tools/method-comparison-worksheet.md`](../guide/06-tools/method-comparison-worksheet.md); this file holds the design rules an agent applies when helping a reader set one up or when writing a comparison into the guide.
 
 ## Design rules
 

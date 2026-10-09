@@ -43,4 +43,4 @@ Starting numbers (seconds, distance, repetitions) are starting points. Adjust to
 
 - <trigger>
 
-Evidence: C-nn (see evidence/claims.md)
+Evidence: C-nn (see [evidence/claims.md](../../evidence/claims.md))

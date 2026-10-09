@@ -2,7 +2,7 @@
 
 What to buy, what to skip, and why. You need less than the pet store suggests.
 
-**Evidence:** Consensus for most items. Legal notes are dated; see `evidence/legal-status.md` for the full table.
+**Evidence:** Consensus for most items. Legal notes are dated; see [`evidence/legal-status.md`](../../evidence/legal-status.md) for the full table.
 
 ## Buy these
 
@@ -14,10 +14,10 @@ What to buy, what to skip, and why. You need less than the pet store suggests.
 | 15 to 30 foot (5 to 10 m) long line | Recall practice and safe exploring | Use with a harness, never a collar, to protect the neck |
 | Treat pouch | Fast reward delivery | Timing depends on having food in hand, not in a pocket |
 | Soft, pea-sized high-value treats | Fast to eat, so you can reward often | Cheese, chicken, hot dog, commercial soft treats. Budget treats at about a tenth of daily food. |
-| Basket muzzle | For any dog with a bite history, and useful for vet visits | Must allow panting and treats. Condition it slowly: `guide/04-protocols/muzzle-training.md` |
-| Baby gates, exercise pen, crate | Management: stop the behavior being practiced while you train | A crate is a tool, not a cure. See `guide/03-problems/crate-training.md` |
+| Basket muzzle | For any dog with a bite history, and useful for vet visits | Must allow panting and treats. Condition it slowly: [`guide/04-protocols/muzzle-training.md`](../04-protocols/muzzle-training.md) |
+| Baby gates, exercise pen, crate | Management: stop the behavior being practiced while you train | A crate is a tool, not a cure. See [`guide/03-problems/crate-training.md`](../03-problems/crate-training.md) |
 | Food puzzles, lick mats, chews | Enrichment and calm | Cheap versions work: a towel with kibble rolled in it |
-| A notebook or phone note | Tracking | `guide/06-tools/training-log.md` |
+| A notebook or phone note | Tracking | [`guide/06-tools/training-log.md`](../06-tools/training-log.md) |
 
 ## Optional
 
@@ -45,7 +45,7 @@ What to buy, what to skip, and why. You need less than the pet store suggests.
 
 ## Related pages
 
-- `guide/02-methods/balanced-training.md` for the full evidence on aversive tools
-- `guide/03-problems/pulling-on-leash.md`
+- [`guide/02-methods/balanced-training.md`](../02-methods/balanced-training.md) for the full evidence on aversive tools
+- [`guide/03-problems/pulling-on-leash.md`](../03-problems/pulling-on-leash.md)
 
-Evidence: C-01, C-02, C-13, C-24, C-25, C-29, C-31 (see evidence/claims.md)
+Evidence: C-01, C-02, C-13, C-24, C-25, C-29, C-31 (see [evidence/claims.md](../../evidence/claims.md))

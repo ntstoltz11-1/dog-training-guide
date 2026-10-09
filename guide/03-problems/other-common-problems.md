@@ -10,8 +10,8 @@ Five small problems that do not need a full page each. Same logic every time: wh
 **Why it works:** the kitchen counter is a slot machine. One sandwich every twenty tries keeps the dog checking forever.
 
 1. **Make the counter pay nothing.** Clear it. Every time. This is the whole fix for most dogs; the training below only works if the counter stops paying.
-2. Teach "go to your mat" in the kitchen and reward the dog heavily for lying there while you cook. Card: `guide/04-protocols/relaxation-protocol.md`.
-3. Teach "leave it" and a cheerful "trade" for stolen items. Never chase; chasing is the best game in the house. `resource-guarding.md` has the trade steps.
+2. Teach "go to your mat" in the kitchen and reward the dog heavily for lying there while you cook. Card: [`guide/04-protocols/relaxation-protocol.md`](../04-protocols/relaxation-protocol.md).
+3. Teach "leave it" and a cheerful "trade" for stolen items. Never chase; chasing is the best game in the house. [`resource-guarding.md`](resource-guarding.md) has the trade steps.
 4. Gate the kitchen when you cannot supervise.
 
 **Avoid:** booby traps and shouting. They teach the dog to steal when you are not there.
@@ -34,7 +34,7 @@ Five small problems that do not need a full page each. Same logic every time: wh
 1. Teach "wait" at a closed door: hand on the handle, dog sits, door opens a crack, closes if the dog moves, opens wider if the dog holds. Release with a word. Many short reps.
 2. Put a gate or pen between the dog and the front door so dashing cannot happen while you train.
 3. Make the door boring: open and close it many times a day with nothing happening.
-4. Teach a strong recall as a backup. `recall.md`.
+4. Teach a strong recall as a backup. [`recall.md`](recall.md).
 
 **Avoid:** chasing the escaped dog toward the road. Turn and run the other way, calling cheerfully; most dogs chase you.
 
@@ -44,7 +44,7 @@ Five small problems that do not need a full page each. Same logic every time: wh
 
 **Barking at everything through the window:** crate or seatbelt harness so the dog cannot patrol, cover the crate or use window film, and reward quiet with treats at red lights. The visual barrier does most of the work.
 
-**Panic in the car:** treat as fear. Start with the parked car and counterconditioning. Card: `guide/04-protocols/counterconditioning-and-desensitization.md`. If the dog shakes, drools, and refuses food at the sight of the car, go slowly and consider medication.
+**Panic in the car:** treat as fear. Start with the parked car and counterconditioning. Card: [`guide/04-protocols/counterconditioning-and-desensitization.md`](../04-protocols/counterconditioning-and-desensitization.md). If the dog shakes, drools, and refuses food at the sight of the car, go slowly and consider medication.
 
 ## Eating poop (coprophagia)
 
@@ -59,8 +59,8 @@ Five small problems that do not need a full page each. Same logic every time: wh
 
 ## Related pages
 
-- `destructive-chewing.md`
-- `impulse-control-and-overarousal.md`
-- `recall.md`
+- [`destructive-chewing.md`](destructive-chewing.md)
+- [`impulse-control-and-overarousal.md`](impulse-control-and-overarousal.md)
+- [`recall.md`](recall.md)
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

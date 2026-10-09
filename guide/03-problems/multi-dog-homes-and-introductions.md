@@ -29,7 +29,7 @@ Starting numbers are starting points. Some pairs take an afternoon, some take mo
 **Assess**
 - What triggers it: food, toys, doorways, a person, excitement at the door, one dog being touched?
 - Who starts it and how (stare, stiffen, body block)?
-- Any injuries? Bite level on the scale in `aggression.md`.
+- Any injuries? Bite level on the scale in [`aggression.md`](aggression.md).
 - Vet check for both, especially the older dog.
 
 **Do this**
@@ -48,7 +48,7 @@ Starting numbers are starting points. Some pairs take an afternoon, some take mo
 
 ## Avoid this
 
-- **"Let them sort out who is boss"**: fights that work get repeated. Dominance is not the useful frame; see `guide/02-methods/dominance-and-compulsion.md`.
+- **"Let them sort out who is boss"**: fights that work get repeated. Dominance is not the useful frame; see [`guide/02-methods/dominance-and-compulsion.md`](../02-methods/dominance-and-compulsion.md).
 - **Punishing the dog that growled**: you remove the warning from a dog that lives with the other one.
 - **Favouring one dog to "keep the peace"**: it often raises tension. Treat both consistently.
 - **Getting a second dog to fix the first dog's anxiety**: sometimes it helps a lonely dog; it does not fix fear or separation panic, and it can double the problem.
@@ -65,8 +65,8 @@ Introductions: days to weeks for most pairs. Resolving conflict between housemat
 
 ## Related pages
 
-- `aggression.md`
-- `resource-guarding.md`
-- `impulse-control-and-overarousal.md`
+- [`aggression.md`](aggression.md)
+- [`resource-guarding.md`](resource-guarding.md)
+- [`impulse-control-and-overarousal.md`](impulse-control-and-overarousal.md)
 
-Evidence: C-03, C-06, C-11, C-22, C-28 (see evidence/claims.md)
+Evidence: C-03, C-06, C-11, C-22, C-28 (see [evidence/claims.md](../../evidence/claims.md))

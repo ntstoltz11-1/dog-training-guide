@@ -16,7 +16,7 @@ A dog that cannot come down: jumping, mouthing, spinning, grabbing the leash, ba
 ## Do this
 
 1. **Capture calm.** Whenever the dog lies down on its own, quietly drop a treat between its paws. No cue, no fuss. The dog learns that stillness pays.
-2. **Mat work.** Teach "go to your mat" and reward relaxed positions (hip rolled, head down) over alert ones. Then run the Relaxation Protocol. Card: `guide/04-protocols/relaxation-protocol.md`.
+2. **Mat work.** Teach "go to your mat" and reward relaxed positions (hip rolled, head down) over alert ones. Then run the Relaxation Protocol. Card: [`guide/04-protocols/relaxation-protocol.md`](../04-protocols/relaxation-protocol.md).
 3. **Self-control games.** Hold a treat in a closed fist; the dog gets it only when it stops pawing and backs off. Progress to an open hand, then a treat on the floor. The dog learns that leaving things alone makes them appear.
 4. **Play with rules.** Tug is excellent for arousal training: "take it" starts the game, "out" pauses it (trade for a treat), a sit restarts it. The dog practices going up and coming down.
 5. **Predictable routines.** Same sequence before walks, meals, and visitors. Predictability lowers arousal.
@@ -31,7 +31,7 @@ Starting numbers: 2 to 3 short sessions a day of 3 to 5 minutes. Adjust to your 
 
 ## How long it takes
 
-Weeks to months, with adolescence as a complicating factor (see `guide/05-development/adolescence.md`). Progress looks like faster recovery after excitement and the dog choosing its mat on its own.
+Weeks to months, with adolescence as a complicating factor (see [`guide/05-development/adolescence.md`](../05-development/adolescence.md)). Progress looks like faster recovery after excitement and the dog choosing its mat on its own.
 
 ## Get help if
 
@@ -41,8 +41,8 @@ Weeks to months, with adolescence as a complicating factor (see `guide/05-develo
 
 ## Related pages
 
-- `jumping.md`
-- `puppy-mouthing.md`
-- `guide/05-development/adolescence.md`
+- [`jumping.md`](jumping.md)
+- [`puppy-mouthing.md`](puppy-mouthing.md)
+- [`guide/05-development/adolescence.md`](../05-development/adolescence.md)
 
-Evidence: C-22, C-35 (see evidence/claims.md)
+Evidence: C-22, C-35 (see [evidence/claims.md](../../evidence/claims.md))

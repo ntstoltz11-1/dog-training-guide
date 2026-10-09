@@ -40,7 +40,7 @@ Very high for safe use. Mistimed rewards cost a treat. Mistimed corrections teac
 - **Wales:** shock collar use banned since 2010.
 - **England:** not banned. Regulations drafted to start 2024-02-01 were never brought into force. A government consultation was promised in December 2025.
 - **Scotland:** not banned; a proposed ban was voted down 84 to 28 on 2025-01-23.
-- **Several European countries** (Germany, Netherlands, Denmark, Sweden, Norway, Finland, Austria, Switzerland) report bans or restrictions. Check your local law; details in `evidence/legal-status.md`.
+- **Several European countries** (Germany, Netherlands, Denmark, Sweden, Norway, Finland, Austria, Switzerland) report bans or restrictions. Check your local law; details in [`evidence/legal-status.md`](../../evidence/legal-status.md).
 
 ## Best fit
 
@@ -54,7 +54,7 @@ This guide does not identify a pet-dog situation where it is the best fit.
 
 ## Related pages
 
-- `overview-and-comparison.md`
-- `guide/01-start-here/equipment.md`
+- [`overview-and-comparison.md`](overview-and-comparison.md)
+- [`guide/01-start-here/equipment.md`](../01-start-here/equipment.md)
 
-Evidence: C-01, C-02, C-03, C-13, C-14, C-27, C-34 (see evidence/claims.md)
+Evidence: C-01, C-02, C-03, C-13, C-14, C-27, C-34 (see [evidence/claims.md](../../evidence/claims.md))

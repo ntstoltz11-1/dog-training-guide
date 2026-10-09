@@ -16,7 +16,7 @@ Panic when left alone, or when a specific person leaves. Signs within minutes of
 ## Do this
 
 1. Make departures boring. No long goodbyes, no dramatic returns.
-2. Practice graduated departures, starting **below** threshold. If the dog panics at 40 seconds, start at 10. Step out, come back, repeat. Card: `guide/04-protocols/graduated-departures.md`.
+2. Practice graduated departures, starting **below** threshold. If the dog panics at 40 seconds, start at 10. Step out, come back, repeat. Card: [`guide/04-protocols/graduated-departures.md`](../04-protocols/graduated-departures.md).
 3. Watch on video and extend by seconds, then minutes, only while the dog stays calm. Mix easy short reps with the longer ones so the pattern is not "always longer".
 4. Several short sessions a week, with rest days. Progress is measured in minutes alone before the first stress sign.
 5. Talk to your vet about medication. It lowers the panic enough for the training to work; it does not replace it.
@@ -51,8 +51,8 @@ Months. Many cases take 4 to 12 months of steady work. Early progress looks like
 
 ## Related pages
 
-- `fear-and-noise-phobia.md`
-- `crate-training.md`
-- `guide/06-tools/medication-conversation-guide.md`
+- [`fear-and-noise-phobia.md`](fear-and-noise-phobia.md)
+- [`crate-training.md`](crate-training.md)
+- [`guide/06-tools/medication-conversation-guide.md`](../06-tools/medication-conversation-guide.md)
 
-Evidence: C-15, C-16, C-22, C-23 (see evidence/claims.md)
+Evidence: C-15, C-16, C-22, C-23 (see [evidence/claims.md](../../evidence/claims.md))

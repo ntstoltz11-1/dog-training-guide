@@ -17,7 +17,7 @@ Teaching the dog to accept, and ideally to signal readiness for, handling it doe
 
 1. **Teach a start button.** A chin rest on your palm or a towel: the dog places its chin, you touch a paw. The dog lifting its chin means "pause", and you pause. The dog learns it has a say, and dogs with a say stay calmer.
 2. **Break the procedure into tiny steps.** For nails: see the clippers, clippers touch the paw, clippers around one nail, one nail clipped. Each step gets a treat, many times, before the next.
-3. **Pair handling with food.** Touch the ear, treat. Lift the lip, treat. Hold the paw for one second, treat. Build duration slowly. Card: `guide/04-protocols/counterconditioning-and-desensitization.md`.
+3. **Pair handling with food.** Touch the ear, treat. Lift the lip, treat. Hold the paw for one second, treat. Build duration slowly. Card: [`guide/04-protocols/counterconditioning-and-desensitization.md`](../04-protocols/counterconditioning-and-desensitization.md).
 4. **Happy visits.** Walk into the clinic, get treats from staff, weigh in, leave. Nothing else. The building stops predicting needles.
 5. **Ask for low-stress handling.** Many clinics follow Fear Free principles: towels, treats, no restraint by force, letting the dog choose the floor over the table.
 
@@ -51,8 +51,8 @@ Weeks to months, depending on history. A dog that has been forced before takes l
 
 ## Related pages
 
-- `aggression.md`
-- `guide/04-protocols/muzzle-training.md`
-- `guide/06-tools/medication-conversation-guide.md`
+- [`aggression.md`](aggression.md)
+- [`guide/04-protocols/muzzle-training.md`](../04-protocols/muzzle-training.md)
+- [`guide/06-tools/medication-conversation-guide.md`](../06-tools/medication-conversation-guide.md)
 
-Evidence: C-20, C-21, C-22 (see evidence/claims.md)
+Evidence: C-20, C-21, C-22 (see [evidence/claims.md](../../evidence/claims.md))

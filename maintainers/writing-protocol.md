@@ -9,7 +9,7 @@ The test for every sentence: **could a tired person with a barking dog read this
 | Rule | Do | Do not |
 |---|---|---|
 | Plain words | "Reward the dog the moment it looks at you." | "Deliver the reinforcer contingent on orientation." |
-| Define on first use | "Threshold (the distance at which your dog can still think and eat)." | Use a term from the glossary without a one-line definition or a link to `glossary.md`. |
+| Define on first use | "Threshold (the distance at which your dog can still think and eat)." | Use a term from the glossary without a one-line definition or a link to [`glossary.md`](../guide/01-start-here/glossary.md). |
 | Fixed template | Use `guide/_templates/`. Every section present; write "none" if empty. | Invent a page shape. |
 | Short | Paragraphs of 1 to 3 sentences. Pages under 80 lines. | Walls of text. |
 | Steps are numbered | "1. Stand 20 steps away. 2. When your dog looks at the trigger, say 'yes' and feed." | Prose instructions. |
@@ -27,8 +27,8 @@ The test for every sentence: **could a tired person with a barking dog read this
 | Tables | One row per item, one line per row. | Prose. |
 | IDs | Every claim `C-nn`, every source `S-nn`. | Unlabeled facts. |
 | Dates act | Date every verdict, verification, and reversal. | "Updated" stamps on stable text. |
-| One fact, one file | Write it where the `CLAUDE.md` routing table says; pointer elsewhere. | Restate across files. |
-| Replace, never accumulate | Overwrite the superseded row; log the reversal in `CHANGELOG.md`. | Strikethrough, "previously". |
+| One fact, one file | Write it where the [`CLAUDE.md`](../CLAUDE.md) routing table says; pointer elsewhere. | Restate across files. |
+| Replace, never accumulate | Overwrite the superseded row; log the reversal in [`CHANGELOG.md`](CHANGELOG.md). | Strikethrough, "previously". |
 
 ## Everywhere
 

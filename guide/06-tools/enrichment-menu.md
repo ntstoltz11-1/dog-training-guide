@@ -44,7 +44,7 @@ Dogs need to chew. Rotate three or four safe chews so something is always "new".
 |---|---|
 | Trick training | Spin, bow, touch, paws up, chin rest. Three minutes a day. Tricks are training with no stakes. |
 | Shaping games | Reward the dog for interacting with a new object in any way; let it figure out what pays |
-| "Do As I Do" | Show, then "do it". A fun imitation game for dogs that enjoy it. `guide/02-methods/relationship-games-and-choice.md` |
+| "Do As I Do" | Show, then "do it". A fun imitation game for dogs that enjoy it. [`guide/02-methods/relationship-games-and-choice.md`](../02-methods/relationship-games-and-choice.md) |
 | New places | A hardware store that allows dogs, a quiet car park, a friend's garden. One new place a week, at the dog's pace. |
 
 ## Rest
@@ -60,8 +60,8 @@ Adult dogs often need 12 or more hours of sleep a day; puppies and seniors more.
 
 ## Related pages
 
-- `guide/03-problems/impulse-control-and-overarousal.md`
-- `guide/03-problems/destructive-chewing.md`
-- `guide/03-problems/barking.md`
+- [`guide/03-problems/impulse-control-and-overarousal.md`](../03-problems/impulse-control-and-overarousal.md)
+- [`guide/03-problems/destructive-chewing.md`](../03-problems/destructive-chewing.md)
+- [`guide/03-problems/barking.md`](../03-problems/barking.md)
 
-Evidence: C-22, C-30 (see evidence/claims.md)
+Evidence: C-22, C-30 (see [evidence/claims.md](../../evidence/claims.md))

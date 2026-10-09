@@ -52,4 +52,4 @@ Fixating on most looks, refusing to sniff, pulling toward or away hard. More dis
 - The dog has bitten
 - You cannot arrange a calm decoy and space (a trainer can)
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

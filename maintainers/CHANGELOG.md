@@ -26,9 +26,9 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Tags:** source
 - **Was:** Twelve priority-1 sources (S-01, S-02, S-03, S-07, S-08, S-09, S-10, S-11, S-12, S-17, S-18, S-19) unverified; several claims carried numbers or wording from the original research report.
 - **Now:** All twelve checked against DOI or PubMed records. No grade changed. Seven corrections, listed in the scan index above. The largest: S-09's author list was wrong, and the claim that the critique "did not reverse" the recall finding had no basis; C-34 now records the finding as disputed. S-07 and S-08 are one dataset. S-18 had eleven wrong co-authors.
-- **Why:** Verification pass per `maintainers/verification-protocol.md`.
-- **Where:** `evidence/sources.md` (12 rows); `evidence/claims.md` C-01, C-02, C-03, C-04, C-06, C-07, C-11, C-15, C-16, C-27, C-34; guide pages: `02-methods/overview-and-comparison.md`, `02-methods/balanced-training.md`, `02-methods/dominance-and-compulsion.md`, `03-problems/recall.md`, `03-problems/aggression.md`, `03-problems/separation-anxiety.md`, `05-development/breed-and-genetics.md`, `01-start-here/common-myths.md`, `06-tools/medication-conversation-guide.md`.
-- **Still open:** S-03 reward-method percentages (0 to 6%) and S-18 trial counts were confirmed through secondary summaries, not the full text. Rows kept in `TASKS.md`.
+- **Why:** Verification pass per [`maintainers/verification-protocol.md`](verification-protocol.md).
+- **Where:** [`evidence/sources.md`](../evidence/sources.md) (12 rows); [`evidence/claims.md`](../evidence/claims.md) C-01, C-02, C-03, C-04, C-06, C-07, C-11, C-15, C-16, C-27, C-34; guide pages: `02-methods/overview-and-comparison.md`, `02-methods/balanced-training.md`, `02-methods/dominance-and-compulsion.md`, `03-problems/recall.md`, `03-problems/aggression.md`, `03-problems/separation-anxiety.md`, `05-development/breed-and-genetics.md`, `01-start-here/common-myths.md`, `06-tools/medication-conversation-guide.md`.
+- **Still open:** S-03 reward-method percentages (0 to 6%) and S-18 trial counts were confirmed through secondary summaries, not the full text. Rows kept in [`TASKS.md`](TASKS.md).
 
 ### 2026-10-08 : Clicker claim regraded
 
@@ -36,7 +36,7 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Was:** "Clicker vs verbal marker comparisons are mixed" (Thin).
 - **Now:** "A clicker gives no acquisition advantage over a verbal marker or food alone; may increase resistance to extinction" (Moderate).
 - **Why:** Verification located Chiandetti 2016 (51 dogs), Smith and Davis 2008, and Gilchrist 2021 (PeerJ), all consistent.
-- **Where:** `evidence/claims.md` C-25; `guide/01-start-here/the-basics-in-10-minutes.md`; `guide/01-start-here/equipment.md`; `guide/04-protocols/marker-training-basics.md`.
+- **Where:** [`evidence/claims.md`](../evidence/claims.md) C-25; [`guide/01-start-here/the-basics-in-10-minutes.md`](../guide/01-start-here/the-basics-in-10-minutes.md); [`guide/01-start-here/equipment.md`](../guide/01-start-here/equipment.md); [`guide/04-protocols/marker-training-basics.md`](../guide/04-protocols/marker-training-basics.md).
 
 ### 2026-10-08 : Dexmedetomidine vet-visit citation corrected
 
@@ -44,7 +44,7 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Was:** "Korpivaara et al. 2021, randomized; 40.7% excellent vs 4.3% placebo."
 - **Now:** Korpivaara et al. pilot dose-determination RCT (74 to 76 dogs, presented WSAVA 2017; publication year unconfirmed) plus Hauser et al. 2020 (40-dog crossover RCT). Manufacturer involvement noted; higher-dose heart-sound finding noted.
 - **Why:** Verification could not locate a 2021 paper matching the citation; the finding traces to the 2017 pilot and the 2020 Penn study.
-- **Where:** `evidence/sources.md` S-27, S-53; `evidence/claims.md` C-21; `guide/03-problems/cooperative-care.md`.
+- **Where:** [`evidence/sources.md`](../evidence/sources.md) S-27, S-53; [`evidence/claims.md`](../evidence/claims.md) C-21; [`guide/03-problems/cooperative-care.md`](../guide/03-problems/cooperative-care.md).
 
 ### 2026-10-08 : FAS scale validation
 
@@ -52,7 +52,7 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Was:** "Widely used clinical tool with limited formal validation."
 - **Now:** Correlates with the Lincoln Canine Anxiety Scale (rho 0.81); inter-rater agreement about 76%; no correlation with urine cortisol in 40 dogs. Graded Moderate (partial validation), new claim C-36.
 - **Why:** Two evaluations located (Denenberg, Gatehouse, Loftus 2025; Virginia Tech thesis).
-- **Where:** `evidence/claims.md` C-36; `guide/06-tools/measurement-sheet.md`.
+- **Where:** [`evidence/claims.md`](../evidence/claims.md) C-36; [`guide/06-tools/measurement-sheet.md`](../guide/06-tools/measurement-sheet.md).
 
 ### 2026-10-08 : UK legal status verified
 
@@ -60,7 +60,7 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Was:** Wales and England rows at High confidence from secondary sources.
 - **Now:** Wales confirmed from the statute (SI 2010/943). England confirmed not banned from a DEFRA written answer dated 2026-01-14 and the Kennel Club policy page. A Parliament petitions page claiming a 2024 ban is logged as conflicting and treated as erroneous.
 - **Why:** Verification pass.
-- **Where:** `evidence/legal-status.md`; `evidence/sources.md` S-41, S-42, S-45, S-46.
+- **Where:** [`evidence/legal-status.md`](../evidence/legal-status.md); [`evidence/sources.md`](../evidence/sources.md) S-41, S-42, S-45, S-46.
 
 ### 2026-10-08 : England e-collar status
 
@@ -68,4 +68,4 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 - **Was:** Widely reported that England banned e-collars from 2024-02-01.
 - **Now:** The Animal Welfare (Electronic Collars) (England) Regulations 2023 were drafted but never brought into force. As of 2026-10-08 only Wales has a statutory UK ban.
 - **Why:** Research pass found the regulations lapsed.
-- **Where:** `evidence/legal-status.md`, `guide/02-methods/balanced-training.md`, `guide/01-start-here/equipment.md`.
+- **Where:** [`evidence/legal-status.md`](../evidence/legal-status.md), [`guide/02-methods/balanced-training.md`](../guide/02-methods/balanced-training.md), [`guide/01-start-here/equipment.md`](../guide/01-start-here/equipment.md).

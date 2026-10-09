@@ -39,7 +39,7 @@ Two to six weeks if everyone is consistent. The spike before it gets better is n
 
 ## Related pages
 
-- `impulse-control-and-overarousal.md`
-- `guide/06-tools/household-plan.md`
+- [`impulse-control-and-overarousal.md`](impulse-control-and-overarousal.md)
+- [`guide/06-tools/household-plan.md`](../06-tools/household-plan.md)
 
-Evidence: C-22, C-26 (see evidence/claims.md)
+Evidence: C-22, C-26 (see [evidence/claims.md](../../evidence/claims.md))

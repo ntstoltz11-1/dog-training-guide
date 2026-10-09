@@ -55,4 +55,4 @@ Any stress sign on video. Drop your durations by half for the next session.
 - You cannot arrange absence-avoidance (a professional can help build a plan)
 - No increase in calm time after 6 to 8 weeks
 
-Evidence: C-15, C-16, C-22, C-23 (see evidence/claims.md)
+Evidence: C-15, C-16, C-22, C-23 (see [evidence/claims.md](../../evidence/claims.md))

@@ -45,8 +45,8 @@ Weeks to months for the dog to show its real self and settle into routines. Some
 
 ## Related pages
 
-- `guide/03-problems/first-rule-see-the-vet.md`
-- `guide/03-problems/separation-anxiety.md`
-- `guide/03-problems/resource-guarding.md`
+- [`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md)
+- [`guide/03-problems/separation-anxiety.md`](../03-problems/separation-anxiety.md)
+- [`guide/03-problems/resource-guarding.md`](../03-problems/resource-guarding.md)
 
-Evidence: C-11, C-12, C-22 (see evidence/claims.md)
+Evidence: C-11, C-12, C-22 (see [evidence/claims.md](../../evidence/claims.md))

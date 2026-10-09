@@ -63,7 +63,7 @@ Children follow the same words and rules, with an adult present for anything inv
 
 ## Related pages
 
-- `training-log.md`
-- `guide/03-problems/jumping.md`
+- [`training-log.md`](training-log.md)
+- [`guide/03-problems/jumping.md`](../03-problems/jumping.md)
 
-Evidence: C-26, C-31 (see evidence/claims.md)
+Evidence: C-26, C-31 (see [evidence/claims.md](../../evidence/claims.md))

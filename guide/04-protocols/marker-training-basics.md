@@ -59,4 +59,4 @@ Fewer than 5 of 10 correct, or the dog wanders off. Go back a step and shorten t
 
 - The dog refuses food in a quiet room (check for pain or stress)
 
-Evidence: C-08, C-25, C-35 (see evidence/claims.md)
+Evidence: C-08, C-25, C-35 (see [evidence/claims.md](../../evidence/claims.md))

@@ -1,6 +1,6 @@
 # Comparison matrices
 
-Current answer only. Reader-facing versions live in `guide/02-methods/overview-and-comparison.md`. Edit here first, then the guide page.
+Current answer only. Reader-facing versions live in [`guide/02-methods/overview-and-comparison.md`](../guide/02-methods/overview-and-comparison.md). Edit here first, then the guide page.
 
 ## Methods
 

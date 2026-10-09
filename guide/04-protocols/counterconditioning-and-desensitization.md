@@ -11,7 +11,7 @@
 
 ## Setup
 
-- Find the distance or intensity where the dog notices the trigger but stays loose and will eat. That is "below threshold". `guide/01-start-here/body-language-and-threshold.md`.
+- Find the distance or intensity where the dog notices the trigger but stays loose and will eat. That is "below threshold". [`guide/01-start-here/body-language-and-threshold.md`](../01-start-here/body-language-and-threshold.md).
 - Arrange the trigger so you control it: a helper who walks at a set distance, a recording at a set volume, your hand moving a set amount.
 
 ## Steps
@@ -52,4 +52,4 @@ The dog stops eating, stiffens, stares, or shows two or more stress signals. Add
 - There is no distance or intensity at which the dog can eat
 - The dog has bitten over this trigger
 
-Evidence: C-22 (see evidence/claims.md)
+Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

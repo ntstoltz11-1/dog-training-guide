@@ -1,7 +1,7 @@
 # Agent instructions
 
-This project's rules and structure live in `CLAUDE.md`. Its current state lives in `maintainers/HANDOFF.md`.
+This project's rules and structure live in [`CLAUDE.md`](CLAUDE.md). Its current state lives in [`maintainers/HANDOFF.md`](maintainers/HANDOFF.md).
 
-Read those two files, in that order, before doing anything. Follow the session protocol in `CLAUDE.md`, including the end-of-session handoff update.
+Read those two files, in that order, before doing anything. Follow the session protocol in [`CLAUDE.md`](CLAUDE.md), including the end-of-session handoff update.
 
-If you are a person who just wants to train your dog: you do not need this file. Open `README.md`.
+If you are a person who just wants to train your dog: you do not need this file. Open [`README.md`](README.md).

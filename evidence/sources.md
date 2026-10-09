@@ -1,6 +1,6 @@
 # Sources
 
-One row per source. `Verified` means an agent confirmed the citation and finding against the primary document per `maintainers/verification-protocol.md`. Verification pass 1: 2026-10-08.
+One row per source. `Verified` means an agent confirmed the citation and finding against the primary document per [`maintainers/verification-protocol.md`](../maintainers/verification-protocol.md). Verification pass 1: 2026-10-08.
 
 | ID | Citation | Type | Link | Verified | Date |
 |---|---|---|---|---|---|

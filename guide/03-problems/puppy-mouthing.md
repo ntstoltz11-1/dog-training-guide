@@ -40,7 +40,7 @@ Mouthing fades steadily and is mostly gone by about 6 months with consistent han
 
 ## Related pages
 
-- `impulse-control-and-overarousal.md`
-- `guide/05-development/puppies-and-socialization.md`
+- [`impulse-control-and-overarousal.md`](impulse-control-and-overarousal.md)
+- [`guide/05-development/puppies-and-socialization.md`](../05-development/puppies-and-socialization.md)
 
-Evidence: C-03, C-22 (see evidence/claims.md)
+Evidence: C-03, C-22 (see [evidence/claims.md](../../evidence/claims.md))

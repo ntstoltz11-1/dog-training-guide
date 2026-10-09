@@ -11,13 +11,13 @@ Fear is a response to something present: a stranger, a vacuum, a thunderclap. An
 
 - **Safe haven.** A room or crate the dog chooses, with bedding, water, and a chew. Never lock a panicking dog in; the point is a place to go, not a cage.
 - **Sound masking.** A fan, white noise, or music during storms and fireworks.
-- Keep a simple log: what happened, how bad (1 to 5), how long to recover. `guide/06-tools/measurement-sheet.md`.
+- Keep a simple log: what happened, how bad (1 to 5), how long to recover. [`guide/06-tools/measurement-sheet.md`](../06-tools/measurement-sheet.md).
 
 ## Do this
 
-1. For sudden fears (a person, an object), use counterconditioning: the scary thing appears at a distance where the dog is still relaxed, great food follows, repeat. Card: `guide/04-protocols/counterconditioning-and-desensitization.md`.
+1. For sudden fears (a person, an object), use counterconditioning: the scary thing appears at a distance where the dog is still relaxed, great food follows, repeat. Card: [`guide/04-protocols/counterconditioning-and-desensitization.md`](../04-protocols/counterconditioning-and-desensitization.md).
 2. For noise fear, use recordings at a volume so low the dog barely notices, paired with food or play. Raise the volume over many sessions. This works better for fireworks and gunshots than for thunderstorms, which come with pressure changes and static the recording cannot copy.
-3. Build a daily calm routine: the Relaxation Protocol teaches settling on a mat while mild distractions happen. Card: `guide/04-protocols/relaxation-protocol.md`.
+3. Build a daily calm routine: the Relaxation Protocol teaches settling on a mat while mild distractions happen. Card: [`guide/04-protocols/relaxation-protocol.md`](../04-protocols/relaxation-protocol.md).
 4. During a real event, comfort your dog. You cannot reinforce fear by being kind; fear is not a behavior the dog chooses. Stay calm, stay close if the dog wants that, and let it hide if it prefers.
 5. Ask your vet about medication **before** the next fireworks season, not during it.
 
@@ -29,7 +29,7 @@ Fear is a response to something present: a stranger, a vacuum, a thunderclap. An
 | Thunderstorms | A small crossover trial of gabapentin (18 dogs) reduced fear on average, but 3 dogs got worse. **Thin.** |
 | Daily anxiety | Daily medication (fluoxetine or clomipramine) takes 4 to 6 weeks to work and is combined with training. **Moderate.** |
 
-No doses here. Your vet chooses the drug and the amount. See `guide/06-tools/medication-conversation-guide.md`.
+No doses here. Your vet chooses the drug and the amount. See [`guide/06-tools/medication-conversation-guide.md`](../06-tools/medication-conversation-guide.md).
 
 ## Avoid this
 
@@ -49,7 +49,7 @@ Situational medication works within an hour. Counterconditioning takes weeks to 
 
 ## Related pages
 
-- `separation-anxiety.md`
-- `leash-reactivity.md`
+- [`separation-anxiety.md`](separation-anxiety.md)
+- [`leash-reactivity.md`](leash-reactivity.md)
 
-Evidence: C-15, C-16, C-17, C-18, C-19, C-22 (see evidence/claims.md)
+Evidence: C-15, C-16, C-17, C-18, C-19, C-22 (see [evidence/claims.md](../../evidence/claims.md))

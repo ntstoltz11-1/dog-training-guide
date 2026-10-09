@@ -64,4 +64,4 @@ Stiffening, faster eating, a hard stare, a low growl. Add distance or drop an it
 - The dog guards people or spaces, not just items
 - No change after 4 to 6 weeks
 
-Evidence: C-03, C-22 (see evidence/claims.md)
+Evidence: C-03, C-22 (see [evidence/claims.md](../../evidence/claims.md))

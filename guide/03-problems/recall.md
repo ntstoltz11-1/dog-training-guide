@@ -38,11 +38,11 @@ One to six months to a solid recall around normal distractions. Wildlife and oth
 ## Get help if
 
 - The dog runs toward roads
-- Recall fails only around specific triggers (see `leash-reactivity.md`)
+- Recall fails only around specific triggers (see [`leash-reactivity.md`](leash-reactivity.md))
 
 ## Related pages
 
-- `pulling-on-leash.md`
-- `guide/04-protocols/marker-training-basics.md`
+- [`pulling-on-leash.md`](pulling-on-leash.md)
+- [`guide/04-protocols/marker-training-basics.md`](../04-protocols/marker-training-basics.md)
 
-Evidence: C-01, C-22, C-34 (see evidence/claims.md)
+Evidence: C-01, C-22, C-34 (see [evidence/claims.md](../../evidence/claims.md))
