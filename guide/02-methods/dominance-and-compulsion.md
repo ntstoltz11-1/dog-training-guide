@@ -29,7 +29,7 @@ A survey of owners at a veterinary behavior clinic recorded how dogs responded t
 | Stare down | 30% |
 | "Dominance down" | 29% |
 | Grab jowls and shake | 26% |
-| Reward-based methods (food, clicker, "look at me") | 0 to 6% |
+| Reward-based methods (food, clicker, "look at me") | Very few |
 
 These were 140 dogs already referred for problems, mostly aggression, and the owners were recalling what happened, so the numbers may be high for the average pet and cannot prove the technique caused the bite. The pattern is the point: confrontation goes with aggression, rewards do not.
 

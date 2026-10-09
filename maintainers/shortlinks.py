@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 FILES = [ROOT / "evidence" / "sources.md", ROOT / "evidence" / "legal-status.md"]
-BARE = re.compile(r"(?<![\(\[<])(https?://[^\s|<>\)]+)")
+BARE = re.compile(r"(?<![\(\[<])(https?://[^\s|<>]+)")  # DOIs may contain parentheses
 
 def label(url):
     host = urlparse(url).netloc.lower().removeprefix("www.")

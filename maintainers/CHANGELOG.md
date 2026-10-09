@@ -6,6 +6,14 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 
 | Date | Tags | One line |
 |---|---|---|
+| 2026-10-08 | source | Herron 2009 full text read: reward-method "0 to 6%" sits only in an image (Fig. 3) and is withdrawn; guide now says "very few", the paper's words (C-03) |
+| 2026-10-08 | source | Simpson 2007 n settled from the paper's text: 242 randomized, 197 evaluable (101 / 96); FDA 229 / 188 is the agency's own count (C-15) |
+| 2026-10-08 | source | Engel 2019 imepitoin trial located; stored title was a different 2018 paper. "EU approved" replaced with the confirmed FDA approval (2018-12) and adverse-event rates (C-18, S-22) |
+| 2026-10-08 | grade | Imepitoin (C-18) upgraded Moderate to Strong: a 238-dog RCT, same standard applied to the dexmedetomidine RCT (C-17) |
+| 2026-10-08 | source | Dexmedetomidine fireworks "odds ratio 3.4" not in the paper; replaced with 72% vs 37% good or excellent effect (C-17) |
+| 2026-10-08 | source | Session spacing (C-08): "faster acquisition" corrected to "fewer sessions to criterion"; daily training reaches criterion sooner on the calendar |
+| 2026-10-08 | source | Guilherme Fernandes 2017 (C-05): "too weak for firm conclusions" softened to "limited and uneven", matching the abstract |
+| 2026-10-08 | legal | Germany and Austria e-collar bans raised from Moderate to High: statute plus Federal Administrative Court (DE) and Constitutional Court record (AT) |
 | 2026-10-08 | source | E-collar critique (S-09) mis-attributed to "Elliffe"; authors are Sargisson and McLean 2021. "Direction did not reverse" withdrawn; the result is disputed (C-34) |
 | 2026-10-08 | source | Cooper 2014 and China 2020 recorded as one 63-dog dataset reported in two papers, not two studies (C-01) |
 | 2026-10-08 | source | Herron 2009 "force item from mouth" corrected 38% to 39%; "provoked aggression" reworded to owner-reported association (C-03) |
@@ -20,6 +28,15 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 | 2026-10-08 | legal | England e-collar ban recorded as "not in force", replacing the common belief that it took effect 2024-02-01 |
 
 ## Entries
+
+### 2026-10-08 : Verification pass 3, full-text follow-ups and priority 2 (session 05)
+
+- **Tags:** source, grade, legal
+- **Was:** Two full-text checks open (S-03 Fig. 3, S-18 n); priority-2 sources S-04, S-05, S-06, S-13, S-14, S-15, S-16, S-21, S-22 unverified; certification bodies other than CCPDT unverified; European e-collar rows at Moderate on secondary sources.
+- **Now:** All of the above verified against primary documents (full text, abstracts, the organizations' own pages, statutes and court records). One grade change (C-18 to Strong). Eight corrections in the scan index. New sources S-56 to S-61 (four certifying bodies, Germany, Austria). 47 of 61 sources now verified (the 14 open are books, protocols, and priority-3 trials).
+- **Why:** Verification pass per [`maintainers/verification-protocol.md`](verification-protocol.md). The S-03 figure and the C-17 odds ratio could not be traced to the primary text, so under the no-source-no-claim rule they came out.
+- **Where:** [`evidence/sources.md`](../evidence/sources.md) (11 rows plus 6 new); [`evidence/claims.md`](../evidence/claims.md) C-02, C-03, C-05, C-08, C-09, C-10, C-15, C-17, C-18, C-32; [`evidence/legal-status.md`](../evidence/legal-status.md) Germany, Austria; guide pages: `01-start-here/the-basics-in-10-minutes.md`, `01-start-here/when-to-get-help.md`, `02-methods/dominance-and-compulsion.md`, `02-methods/overview-and-comparison.md`, `03-problems/fear-and-noise-phobia.md`, `06-tools/medication-conversation-guide.md`.
+- **Still open:** Netherlands, Switzerland, and Scandinavian statutes; priority-3 rows. See [`TASKS.md`](TASKS.md).
 
 ### 2026-10-08 : Verification pass 2, core comparative studies (session 03)
 

@@ -27,10 +27,10 @@ Dog training is unregulated in most countries. Anyone can call themselves a trai
 |---|---|---|
 | CPDT-KA / CPDT-KSA | Certification Council for Professional Dog Trainers | KA: 300 logged hours in 3 years (225 hands-on), an attestation from a professional, and a knowledge exam; renews every 3 years. KSA adds a video-assessed hands-on skills test. Only a small minority of KA holders go on to KSA, so ask which one. Bound by a least-intrusive (LIMA) standard. |
 | CBCC-KA | Same body | Behavior consulting knowledge exam plus 300 hours of consulting experience; renews every 5 years |
-| KPA-CTP | Karen Pryor Academy | Completed a structured reward-based course with graded hands-on work |
-| CDBC | International Association of Animal Behavior Consultants | Case studies, experience, exam; bound by a least-intrusive ethics code |
-| CAAB / ACAAB | Animal Behavior Society | PhD (CAAB) or master's (ACAAB) in behavior plus supervised experience |
-| DACVB | American College of Veterinary Behaviorists | Veterinarian with residency, research, and board exam |
+| KPA-CTP | Karen Pryor Academy | Completed a 6-month reward-based course: online units plus hands-on workshops with the trainer's own dog, ending in a certification assessment |
+| CDBC | International Association of Animal Behavior Consultants | At least 4 years and 500 hours of consulting, 400 hours of coursework or mentorship, written case studies, and a rubric-scored exam; bound by a least-intrusive (LIMA) ethics code |
+| CAAB / ACAAB | Animal Behavior Society | CAAB: doctorate in a behavioral or biological science plus 5 years of practice (or a vet degree plus a 2-year behavior residency and 3 years). ACAAB: master's with a research thesis plus 2 years |
+| DACVB | American College of Veterinary Behaviorists | Veterinarian with an internship, a multi-year behavior residency, supervised cases, published research, and a two-day board exam |
 
 No letters does not mean no skill. But letters mean someone checked.
 

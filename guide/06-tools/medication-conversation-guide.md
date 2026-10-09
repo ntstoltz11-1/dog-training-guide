@@ -17,16 +17,16 @@ Medication lowers fear and arousal enough for training to work. It does not repl
 | Kind | How it is used | Examples (names, not doses) | Time to work |
 |---|---|---|---|
 | **Daily** | Every day, for months, to lower baseline anxiety | Fluoxetine, clomipramine | 4 to 6 weeks for full effect |
-| **Situational** | Before a known event | Dexmedetomidine gel (Sileo), trazodone, gabapentin, imepitoin (Europe) | About an hour |
+| **Situational** | Before a known event | Dexmedetomidine gel (Sileo), trazodone, gabapentin, imepitoin (Pexion) | About an hour (imepitoin starts 2 days before) |
 
 ## What the evidence says, in plain terms
 
 | Drug and situation | Finding | Strength |
 |---|---|---|
-| Fluoxetine for separation anxiety, with training | 72% of dogs improved vs 50% on placebo plus training, in a trial of over 200 dogs | Moderate to Strong |
+| Fluoxetine for separation anxiety, with training | 72% of dogs improved vs 50% on placebo plus training, in a trial of 242 dogs (197 completed) | Moderate to Strong |
 | Clomipramine for separation anxiety, with training | One trial of 95 dogs found the standard dose sped up improvement in destruction and soiling, not vocalizing; an earlier trial of 49 dogs found no benefit over placebo | Moderate, mixed |
-| Dexmedetomidine gel for fireworks | Clearly better than placebo in 182 dogs | Strong |
-| Imepitoin for fireworks | Better than placebo in 238 dogs; EU approved | Moderate |
+| Dexmedetomidine gel for fireworks | Good or excellent effect in 72% vs 37% on placebo, 182 dogs | Strong |
+| Imepitoin for fireworks | Owners about 4.7 times as likely to rate the effect good or excellent, 238 dogs; US approved 2018; side effects (wobbliness, appetite) in about half, and a few dogs became less inhibited | Strong |
 | Gabapentin for storms | Small crossover trial, 18 dogs: better on average, 3 dogs worse | Thin |
 | Trazodone before vet visits | 20-dog trial: some stress scores lower, stress hormone unchanged | Thin to Moderate |
 | Gabapentin before vet visits | 22-dog trial: only lip licking dropped | Thin |

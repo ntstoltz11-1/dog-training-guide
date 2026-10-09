@@ -25,7 +25,7 @@ Fear is a response to something present: a stranger, a vacuum, a thunderclap. An
 
 | Situation | What the evidence shows |
 |---|---|
-| Fireworks and sudden noise | A gel applied to the gums (dexmedetomidine, sold as Sileo) was clearly better than placebo in a randomized trial of 182 dogs. A tablet (imepitoin) also beat placebo in a trial of 238 dogs; it is approved in Europe, so check availability. **Strong to Moderate.** |
+| Fireworks and sudden noise | A gel applied to the gums (dexmedetomidine, sold as Sileo) was clearly better than placebo in a randomized trial of 182 dogs: 72% of owners rated the effect good or excellent vs 37% on placebo. A tablet (imepitoin, sold as Pexion) also beat placebo in a trial of 238 dogs and is approved for this use in the US; about half the dogs on it were wobbly or hungrier, and a few became less inhibited, so ask your vet about side effects. **Strong.** |
 | Thunderstorms | A small crossover trial of gabapentin (18 dogs) reduced fear on average, but 3 dogs got worse. **Thin.** |
 | Daily anxiety | Daily medication (fluoxetine or clomipramine) takes 4 to 6 weeks to work and is combined with training. **Moderate.** |
 

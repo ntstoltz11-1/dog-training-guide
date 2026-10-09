@@ -23,7 +23,7 @@ One page to compare the main styles before you pick a trainer, a class, or an ap
 
 ## Where the real disagreements are
 
-1. **Is the research good enough to conclude anything?** One 2017 review said the pre-2017 literature was too weak for firm conclusions. Another 2017 review of the same literature concluded aversives risk welfare and recommended reward-based methods. Both are right about different things: the methods are weak, and the direction of the findings is consistent.
+1. **Is the research good enough to conclude anything?** One 2017 review found the studies all point the same way but called the evidence limited and uneven: small samples, police and laboratory dogs, and a focus on shock collars. Another 2017 review of the same literature concluded aversives risk welfare and recommended reward-based methods. Both are right about different things: the methods are weak, and the direction of the findings is consistent.
 2. **Are there tasks where shock collars help?** Some working-dog contexts (training dogs to avoid dangerous wildlife) report value. No controlled comparison exists for pet dogs.
 3. **Does LIMA permit too much?** Some force-free trainers reject the bottom rungs of the Humane Hierarchy entirely. Others say a framework that names aversives as a last resort is more honest than pretending they never happen.
 

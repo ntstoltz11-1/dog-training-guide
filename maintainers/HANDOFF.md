@@ -1,27 +1,26 @@
-# Handoff 04 : Formatting and cleanup pass done, repo reads clean on GitHub
+# Handoff 05 : Verification pass 3 done, priority 1 and 2 cleared, one grade change
 
 **Date:** 2026-10-08.
 
 ## Where things stand
 
-- **Rendering checked live** (README, a method page, a problem page, `evidence/sources.md`). Headings, tables, and page shape render fine. One real defect: every cross-link showed as a code-styled file name (`recall.md`), which reads as jargon to the owner audience.
-- **Fixed with a new script.** [`titleize.py`](titleize.py) rewrites `[`file.md`](path)` to `[Page title](path)` using each target's H1, in reader-facing files only (`guide/`, README, TOC, CONTRIBUTING). 50 files changed. Backend files keep path-style links on purpose. Run order after adding pages: `linkify.py`, then `titleize.py`.
-- **`sources.md` table widths fixed.** [`shortlinks.py`](shortlinks.py) turns bare URLs in the Link column into `[doi](url)`, so the Citation column gets the width. 40 links.
-- **README routing table:** the three bare folder paths are now linked folder names with a plain word ("the problems folder").
-- **Privacy:** the local Windows path and surname are out of `CLAUDE.md` and `linkify.py` (now relative to the repo). Archived handoffs were already clean. The GitHub username stays; it is the repo address.
-- **`.gitattributes`** marks the helper scripts `linguist-vendored`, so GitHub stops labeling the guide "Python 100%".
-- **Budgets:** all 53 guide pages under 80 lines (longest: decision-tree at 73). No em dashes, no emojis, one H1 per file. Writing protocol and problem template now state the link-text rule.
-- **Verification queue unchanged:** 28 of 55 sources verified; two full-text checks open (Herron 2009 Fig. 3; Simpson 2007 n).
+- **47 of 61 sources verified.** Session 05 cleared the two full-text follow-ups (S-03, S-18) and all priority-2 studies, statements, certifying bodies, and two European statutes. New sources S-56 to S-61.
+- **Eight corrections** in [`CHANGELOG.md`](CHANGELOG.md). Two claims lost numbers that could not be traced to the primary text: Herron's "0 to 6%" for reward methods (only in an image; now "very few") and the dexmedetomidine "odds ratio 3.4" (now 72% vs 37%). C-08 "faster" became "fewer sessions"; daily training wins on the calendar, weekly wins per session.
+- **One grade change:** imepitoin (C-18) Moderate to Strong. The stored S-22 title was a different paper; the real trial is Engel 2019, JVIM, 238 dogs, with 48% adverse events and an FDA aggression note. "EU approved" was replaced with the confirmed FDA approval (2018-12).
+- **Legal:** Germany and Austria raised to High on statute plus court records. Netherlands, Switzerland, Scandinavia still Moderate.
+- **Guide pages edited:** 01/basics, 01/when-to-get-help (credential table now carries each body's actual requirements), 02/dominance, 02/overview, 03/fear, 06/medication. All under 80 lines.
+- **Session 04 (same day):** formatting pass; link text is now page titles via `titleize.py`, run after `linkify.py` whenever pages are added.
 
 ## Next session
 
-1. Verification pass 3: the two full-text follow-ups, then priority 2 ([`TASKS.md`](TASKS.md) Verify).
-2. Nick test-reads [`decision-tree.md`](../guide/01-start-here/decision-tree.md) and [`children-and-dogs.md`](../guide/03-problems/children-and-dogs.md) cold.
-3. Consider body-language diagrams ([`TASKS.md`](TASKS.md) Build).
+1. Legal: Netherlands, Switzerland, Denmark, Sweden, Norway, Finland statutes ([`TASKS.md`](TASKS.md) Verify, priority 2). Confirm imepitoin EU authorisation.
+2. Priority 3 rows: Scotland vote source, C-BARQ, the four pre-visit medication trials, S-27 journal and year.
+3. Nick test-reads [`decision-tree.md`](../guide/01-start-here/decision-tree.md) and [`children-and-dogs.md`](../guide/03-problems/children-and-dogs.md) cold.
+4. Consider body-language diagrams ([`TASKS.md`](TASKS.md) Build).
 
-## Retro (session 04)
+## Retro (session 05)
 
-- Went wrong: the method template's Related link is written relative to `_templates/`, so a copied page needs `linkify.py` to re-resolve it. Noted in the problem template; method template left as is.
-- Went right: screenshotting the live repo found the one defect that mattered in minutes; the rest was already within budget.
-- Changed: 50 reader files (link text), README (3 rows, 1 row), sources.md (40 links), CLAUDE.md (2 lines), linkify.py, writing-protocol.md, _TEMPLATE-problem.md, new titleize.py, shortlinks.py, .gitattributes, TASKS, this file. Handoff 03 archived.
-- Try next time: nothing new; the session protocol held.
+- Went wrong: three DOIs were nearly written into sources.md from memory before a search showed they could not be confirmed; they were replaced with the verified journal links. The no-invent rule has to apply to identifiers, not just findings.
+- Went right: fetching the Herron PDF settled in minutes what two secondary summaries had left open, and exposed that the figure was never in the text at all.
+- Changed: sources.md (11 rows, 6 new), claims.md (10 rows), legal-status.md (2 rows), 6 guide pages, CHANGELOG (8 index lines, 1 entry), TASKS, this file. Handoff 04 archived.
+- Try next time: for any number pulled from a figure rather than text, write "from figure" in the source row on first entry.

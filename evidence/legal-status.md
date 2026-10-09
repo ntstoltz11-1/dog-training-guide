@@ -10,8 +10,8 @@ Legal facts carry a confidence level, not an evidence grade. **High** requires t
 | England | **Not banned.** Animal Welfare (Electronic Collars) (England) Regulations 2023 were drafted for 2024-02-01 but did not pass before Parliament ran out of time. DEFRA written answer 2026-01-14: the Government "will consult on whether to ban" later in this Parliament. Note: a Parliament petitions page (2025-03) wrongly states a ban took effect; the ministerial answer is more recent and authoritative. | High (ministerial answer plus Kennel Club policy page) | S-42, S-45, S-46 | 2026-10-08 |
 | Scotland | Not banned. 2018 ministerial pledge to ban via guidance; later confirmed not prohibited. Amendment to ban voted down 84 to 28 on 2025-01-23 in the Welfare of Dogs (Scotland) Bill. | Moderate (news reporting) | S-43 | 2026-10-08 |
 | Northern Ireland | Not banned | Moderate | secondary | 2026-10-08 |
-| Germany | Reported ban on use | Moderate | secondary | 2026-10-08 |
-| Austria | Reported ban | Moderate | secondary | 2026-10-08 |
+| Germany | **Use banned.** Tierschutzgesetz section 3 no. 11; the Federal Administrative Court (3 C 14/05, 2006-02-23) held electric training devices in dog training prohibited with no exception for trained handlers. | High (statute plus highest court; state government page agrees) | S-60 | 2026-10-08 |
+| Austria | **Use banned.** Tierschutzgesetz section 5(2)(3)(a): electrifying training devices prohibited; upheld against a constitutional challenge (VfGH G220/06, 2007). | High (statute via court record) | S-61 | 2026-10-08 |
 | Netherlands | Reported ban (2020s) | Moderate | secondary | 2026-10-08 |
 | Switzerland | Reported ban | Moderate | secondary | 2026-10-08 |
 | Denmark | Reported ban | Moderate | secondary | 2026-10-08 |

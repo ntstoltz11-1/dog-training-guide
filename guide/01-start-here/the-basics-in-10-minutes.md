@@ -39,7 +39,7 @@ A sit in the kitchen is not yet a sit at the park. The dog has to learn it in se
 
 ## Short and spaced beats long and daily
 
-In the one area where dogs have been tested directly, short sessions with rest between them produced faster learning than long daily drilling, and the dogs remembered just as well weeks later. Those were laboratory dogs on one task, so take it as a direction, not a rule: a few minutes, several times, with sleep in between.
+In the one area where dogs have been tested directly, dogs trained once or twice a week, one short session at a time, needed fewer sessions to learn a task than dogs drilled daily, and they remembered it just as well four weeks later. Daily training still got there sooner on the calendar; it just spent more sessions doing it. Those were laboratory dogs on one task, so take it as a direction, not a rule: a few minutes at a time, with rest and sleep between sessions.
 
 ## Stress shuts learning down
 
