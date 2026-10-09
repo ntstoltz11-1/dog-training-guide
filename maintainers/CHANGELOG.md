@@ -6,6 +6,8 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 
 | Date | Tags | One line |
 |---|---|---|
+| 2026-10-08 | legal | Netherlands, Switzerland, Denmark, Sweden, Norway raised to High from statute texts and government pages; Denmark prong ban added; Finland stays Moderate |
+| 2026-10-08 | source | Imepitoin EU indication confirmed from EMA (CVMP 2018-05-25); guide now states US and EU approval, correcting the interim "US only" wording (C-18, S-67) |
 | 2026-10-08 | source | Herron 2009 full text read: reward-method "0 to 6%" sits only in an image (Fig. 3) and is withdrawn; guide now says "very few", the paper's words (C-03) |
 | 2026-10-08 | source | Simpson 2007 n settled from the paper's text: 242 randomized, 197 evaluable (101 / 96); FDA 229 / 188 is the agency's own count (C-15) |
 | 2026-10-08 | source | Engel 2019 imepitoin trial located; stored title was a different 2018 paper. "EU approved" replaced with the confirmed FDA approval (2018-12) and adverse-event rates (C-18, S-22) |
@@ -28,6 +30,15 @@ Reversals and corrections only. Newest first. Tags: `legal`, `grade`, `protocol`
 | 2026-10-08 | legal | England e-collar ban recorded as "not in force", replacing the common belief that it took effect 2024-02-01 |
 
 ## Entries
+
+### 2026-10-08 : Verification pass 3b, European statutes and imepitoin EU (session 06)
+
+- **Tags:** legal, source
+- **Was:** Netherlands, Switzerland, Denmark, Sweden, Norway, Finland e-collar rows at Moderate on secondary sources; imepitoin EU status flagged to confirm after session 05 replaced "EU approved" with the FDA approval.
+- **Now:** Five countries at High on statute text or the government inspectorate's own page (S-62 to S-66); Denmark prong-collar ban added; Finland stays Moderate (Act located, section not). EMA confirms the EU noise-phobia indication (S-67), so the guide states both US and EU approval. C-13 now names the seven countries.
+- **Why:** [`maintainers/verification-protocol.md`](verification-protocol.md): High requires the statute or an official government page.
+- **Where:** [`evidence/legal-status.md`](../evidence/legal-status.md) (6 shock rows, 2 prong rows); [`evidence/sources.md`](../evidence/sources.md) S-62 to S-67; [`evidence/claims.md`](../evidence/claims.md) C-13, C-18; guide pages: `02-methods/balanced-training.md`, `03-problems/fear-and-noise-phobia.md`, `06-tools/medication-conversation-guide.md`.
+- **Still open:** Finland's section; priority-3 rows.
 
 ### 2026-10-08 : Verification pass 3, full-text follow-ups and priority 2 (session 05)
 

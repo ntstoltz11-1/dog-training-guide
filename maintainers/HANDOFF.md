@@ -1,26 +1,25 @@
-# Handoff 05 : Verification pass 3 done, priority 1 and 2 cleared, one grade change
+# Handoff 06 : European statutes verified, legal table nearly all High
 
 **Date:** 2026-10-08.
 
 ## Where things stand
 
-- **47 of 61 sources verified.** Session 05 cleared the two full-text follow-ups (S-03, S-18) and all priority-2 studies, statements, certifying bodies, and two European statutes. New sources S-56 to S-61.
-- **Eight corrections** in [`CHANGELOG.md`](CHANGELOG.md). Two claims lost numbers that could not be traced to the primary text: Herron's "0 to 6%" for reward methods (only in an image; now "very few") and the dexmedetomidine "odds ratio 3.4" (now 72% vs 37%). C-08 "faster" became "fewer sessions"; daily training wins on the calendar, weekly wins per session.
-- **One grade change:** imepitoin (C-18) Moderate to Strong. The stored S-22 title was a different paper; the real trial is Engel 2019, JVIM, 238 dogs, with 48% adverse events and an FDA aggression note. "EU approved" was replaced with the confirmed FDA approval (2018-12).
-- **Legal:** Germany and Austria raised to High on statute plus court records. Netherlands, Switzerland, Scandinavia still Moderate.
-- **Guide pages edited:** 01/basics, 01/when-to-get-help (credential table now carries each body's actual requirements), 02/dominance, 02/overview, 03/fear, 06/medication. All under 80 lines.
-- **Session 04 (same day):** formatting pass; link text is now page titles via `titleize.py`, run after `linkify.py` whenever pages are added.
+- **53 of 67 sources verified.** Sessions 05 and 06 (same day) cleared every priority-1 and priority-2 item except Finland's statute section. The 14 unverified rows are books, named protocols, and priority-3 trials.
+- **Legal table:** Wales, England, Germany, Austria, Netherlands, Switzerland, Denmark, Sweden, Norway now High, each on the statute text, a court record, or the government inspectorate's page (S-60 to S-66). Finland Moderate. Denmark's prong-collar ban added. C-13 names the seven European bans.
+- **Imepitoin:** EMA confirms the EU noise-phobia indication (S-67, 2018). Session 05 had swapped "EU approved" for the FDA approval; both are now stated on [`fear-and-noise-phobia.md`](../guide/03-problems/fear-and-noise-phobia.md) and [`medication-conversation-guide.md`](../guide/06-tools/medication-conversation-guide.md). Logged in [`CHANGELOG.md`](CHANGELOG.md).
+- **Guide pages edited this session:** 02/balanced (country list now statute-backed), 03/fear, 06/medication. All under 80 lines.
+- **Scripts:** after adding pages run `linkify.py`, then `titleize.py`; `shortlinks.py` on evidence tables.
 
 ## Next session
 
-1. Legal: Netherlands, Switzerland, Denmark, Sweden, Norway, Finland statutes ([`TASKS.md`](TASKS.md) Verify, priority 2). Confirm imepitoin EU authorisation.
-2. Priority 3 rows: Scotland vote source, C-BARQ, the four pre-visit medication trials, S-27 journal and year.
-3. Nick test-reads [`decision-tree.md`](../guide/01-start-here/decision-tree.md) and [`children-and-dogs.md`](../guide/03-problems/children-and-dogs.md) cold.
-4. Consider body-language diagrams ([`TASKS.md`](TASKS.md) Build).
+1. Priority 3 ([`TASKS.md`](TASKS.md)): Finland's section; Scotland vote source; C-BARQ; the four pre-visit medication trials; S-27 journal and year; prong statutes outside Denmark.
+2. Nick test-reads [`decision-tree.md`](../guide/01-start-here/decision-tree.md) and [`children-and-dogs.md`](../guide/03-problems/children-and-dogs.md) cold.
+3. Consider body-language diagrams ([`TASKS.md`](TASKS.md) Build).
+4. Consider a README line stating the verification count and date, since the number is now worth showing.
 
-## Retro (session 05)
+## Retro (session 06)
 
-- Went wrong: three DOIs were nearly written into sources.md from memory before a search showed they could not be confirmed; they were replaced with the verified journal links. The no-invent rule has to apply to identifiers, not just findings.
-- Went right: fetching the Herron PDF settled in minutes what two secondary summaries had left open, and exposed that the figure was never in the text at all.
-- Changed: sources.md (11 rows, 6 new), claims.md (10 rows), legal-status.md (2 rows), 6 guide pages, CHANGELOG (8 index lines, 1 entry), TASKS, this file. Handoff 04 archived.
-- Try next time: for any number pulled from a figure rather than text, write "from figure" in the source row on first entry.
+- Went wrong: session 05 removed a correct fact ("EU approved") because it was unconfirmed at that moment, and session 06 had to restore it. Marking a fact "unconfirmed" in Notes would have been better than deleting it from the guide.
+- Went right: every statute row was settled from the legislation site or the inspectorate in one search each; national-language queries found primary text where English ones found retailer blogs.
+- Changed: legal-status.md (8 rows), sources.md (6 new), claims.md (C-13, C-18), 3 guide pages, CHANGELOG (2 index lines, 1 entry), TASKS, this file. Handoff 05 archived.
+- Try next time: when a verification pass cannot confirm a stated fact, downgrade confidence in the ledger first; remove it from the guide only if the source search comes up empty.

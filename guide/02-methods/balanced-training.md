@@ -40,7 +40,7 @@ Very high for safe use. Mistimed rewards cost a treat. Mistimed corrections teac
 - **Wales:** shock collar use banned since 2010.
 - **England:** not banned. Regulations drafted to start 2024-02-01 were never brought into force. A government consultation was promised in December 2025.
 - **Scotland:** not banned; a proposed ban was voted down 84 to 28 on 2025-01-23.
-- **Several European countries** (Germany, Netherlands, Denmark, Sweden, Norway, Finland, Austria, Switzerland) report bans or restrictions. Check your local law; details in [Legal status of training tools](../../evidence/legal-status.md).
+- **Germany, Austria, the Netherlands, Switzerland, Denmark, Sweden, and Norway** ban shock-collar use by statute (Norway and Switzerland allow narrow, licensed exceptions). Finland reports a ban. Check your local law; details in [Legal status of training tools](../../evidence/legal-status.md).
 
 ## Best fit
 
