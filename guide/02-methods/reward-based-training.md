@@ -18,7 +18,7 @@ Dogs repeat what pays. A **marker** (a click or "yes") pinpoints the exact momen
 | **Shaping** | Reward small steps toward the goal | Keep steps tiny; if the dog stalls, you lumped too much |
 | **Targeting** | Teach a nose or paw touch, then move the target | A versatile building block for recall, positions, and cooperative care |
 
-Step-by-step: [`guide/04-protocols/marker-training-basics.md`](../04-protocols/marker-training-basics.md).
+Step-by-step: [Marker training basics](../04-protocols/marker-training-basics.md).
 
 ## What the research says
 
@@ -61,7 +61,7 @@ Everything. Puppies, adults, seniors, fearful dogs, aggressive dogs (with a prof
 
 ## Related pages
 
-- [`overview-and-comparison.md`](overview-and-comparison.md)
-- [`lima-and-the-humane-hierarchy.md`](lima-and-the-humane-hierarchy.md)
+- [Training methods: overview and comparison](overview-and-comparison.md)
+- [LIMA and the Humane Hierarchy](lima-and-the-humane-hierarchy.md)
 
 Evidence: C-01, C-02, C-04, C-25, C-31 (see [evidence/claims.md](../../evidence/claims.md))

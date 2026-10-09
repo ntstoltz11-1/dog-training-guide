@@ -1,8 +1,8 @@
 # CLAUDE.md : Dog Training Guide
 
-Nick Stoltz's reader-facing dog training guidebook. **Readers of `guide/` are dog owners with no technical background.** Readers of `evidence/` and `maintainers/` are AI agents and Nick. Keep the two audiences separate in every edit.
+Nick's reader-facing dog training guidebook. **Readers of `guide/` are dog owners with no technical background.** Readers of `evidence/` and `maintainers/` are AI agents and Nick. Keep the two audiences separate in every edit.
 
-**Folder:** `C:\Users\Stoltz\Desktop\Claude Projects\Dog Training` (created 2026-10-08). Shared externally via Google Drive or GitHub, so every file in `guide/` must stand alone without this file.
+**Folder:** the repository root, wherever it is cloned (created 2026-10-08). Public on GitHub at https://github.com/ntstoltz11-1/dog-training-guide, so every file in `guide/` must stand alone without this file.
 
 ---
 

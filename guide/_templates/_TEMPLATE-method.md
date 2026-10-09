@@ -41,6 +41,6 @@
 
 ## Related pages
 
-- [`guide/02-methods/overview-and-comparison.md`](../02-methods/overview-and-comparison.md)
+- [Training methods: overview and comparison](../02-methods/overview-and-comparison.md)
 
 Evidence: C-nn (see [evidence/claims.md](../../evidence/claims.md))

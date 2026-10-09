@@ -4,7 +4,7 @@ Thank you for wanting to improve this guide. Two kinds of contribution are welco
 
 ## The standard
 
-Every factual claim in `guide/` must trace to a row in [`evidence/claims.md`](evidence/claims.md), and every claim row must point to a source in [`evidence/sources.md`](evidence/sources.md). If you cannot source it, it does not go in. Opinions and experience are valuable, but they go in as "Consensus" or "Thin" with that label, never dressed up as research.
+Every factual claim in `guide/` must trace to a row in [Claims](evidence/claims.md), and every claim row must point to a source in [Sources](evidence/sources.md). If you cannot source it, it does not go in. Opinions and experience are valuable, but they go in as "Consensus" or "Thin" with that label, never dressed up as research.
 
 ## Reporting a problem
 
@@ -17,22 +17,22 @@ Corrections to legal status need the statute or an official government page.
 
 ## Suggesting new content
 
-Open an issue first describing the page or section. Check [`maintainers/TASKS.md`](maintainers/TASKS.md) to see if it is already planned.
+Open an issue first describing the page or section. Check [Tasks](maintainers/TASKS.md) to see if it is already planned.
 
 ## Making changes
 
-1. Read [`maintainers/writing-protocol.md`](maintainers/writing-protocol.md). Pages in `guide/` are for dog owners with no technical background: plain words, short paragraphs, the fixed template, under 80 lines, no author names or years in the body.
+1. Read [Writing protocol](maintainers/writing-protocol.md). Pages in `guide/` are for dog owners with no technical background: plain words, short paragraphs, the fixed template, under 80 lines, no author names or years in the body.
 2. Use the templates in `guide/_templates/`.
-3. For every new claim, add a row to [`evidence/claims.md`](evidence/claims.md) and, if needed, [`evidence/sources.md`](evidence/sources.md), and put the claim IDs in the page footer.
-4. Grade the claim per [`maintainers/evidence-grading.md`](maintainers/evidence-grading.md). When in doubt, grade lower.
+3. For every new claim, add a row to [Claims](evidence/claims.md) and, if needed, [Sources](evidence/sources.md), and put the claim IDs in the page footer.
+4. Grade the claim per [Evidence grading](maintainers/evidence-grading.md). When in doubt, grade lower.
 5. Never write a medication dose.
 6. Any page touching bites, children, or aggression leads with safety and referral.
-7. If your change reverses something the guide currently says, add an entry to [`maintainers/CHANGELOG.md`](maintainers/CHANGELOG.md).
+7. If your change reverses something the guide currently says, add an entry to [Changelog](maintainers/CHANGELOG.md).
 8. Open a pull request. Describe what changed and why in plain language.
 
 ## Style
 
-No em dashes. No emojis. Absolute dates (2026-10-08, not "last week"). Define any term on first use or link to [`guide/01-start-here/glossary.md`](guide/01-start-here/glossary.md).
+No em dashes. No emojis. Absolute dates (2026-10-08, not "last week"). Define any term on first use or link to [Glossary](guide/01-start-here/glossary.md).
 
 ## What we will not merge
 

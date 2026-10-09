@@ -1,7 +1,7 @@
 # Crate training
 
 **Evidence for this page:** Consensus. Confinement training is endorsed in veterinary position statements; the caution about crates and separation panic is Thin but important.
-**See a vet first?** Not usually. If the dog panics in the crate, read [`separation-anxiety.md`](separation-anxiety.md) before continuing.
+**See a vet first?** Not usually. If the dog panics in the crate, read [Separation anxiety](separation-anxiety.md) before continuing.
 
 ## What it is
 
@@ -40,7 +40,7 @@ One to four weeks for a dog to settle happily. Puppies often adapt in days.
 
 ## Related pages
 
-- [`house-training.md`](house-training.md)
-- [`separation-anxiety.md`](separation-anxiety.md)
+- [House training](house-training.md)
+- [Separation anxiety](separation-anxiety.md)
 
 Evidence: C-09, C-23 (see [evidence/claims.md](../../evidence/claims.md))

@@ -9,7 +9,7 @@ Your dog stiffens, eats faster, growls, snaps, or bites when someone approaches 
 
 ## Safety first
 
-- **If a bite has already happened, or children live in the home, stop and get a professional** before trying anything on this page. See [`guide/01-start-here/when-to-get-help.md`](../01-start-here/when-to-get-help.md).
+- **If a bite has already happened, or children live in the home, stop and get a professional** before trying anything on this page. See [When to get help, and who to call](../01-start-here/when-to-get-help.md).
 - Teach everyone in the house: nobody approaches, reaches toward, or takes anything from the dog while you are working on this.
 
 ## Before you start
@@ -21,7 +21,7 @@ Your dog stiffens, eats faster, growls, snaps, or bites when someone approaches 
 ## Do this
 
 1. Teach a cheerful trade: hold out a better treat, say "trade", let the dog drop the item to eat, then **give the item back**. The dog learns that giving things up is not a loss. Practice with boring items first.
-2. Run the approach protocol. From beyond the reaction distance, walk toward the dog while it has a low-value item, toss a fantastic treat, and walk away. Repeat. Over sessions, come closer, then use better items. Card: [`guide/04-protocols/mine-protocol.md`](../04-protocols/mine-protocol.md).
+2. Run the approach protocol. From beyond the reaction distance, walk toward the dog while it has a low-value item, toss a fantastic treat, and walk away. Repeat. Over sessions, come closer, then use better items. Card: [Mine! protocol (resource guarding)](../04-protocols/mine-protocol.md).
 3. Teach "drop" and "leave it" with rewards, separately, so you have tools for emergencies.
 4. Add hand-near-bowl work only after approach is easy: drop a treat into the bowl while the dog eats, walk away. The hand becomes a delivery, not a threat.
 
@@ -46,7 +46,7 @@ Weeks to a few months for food and toys. Guarding of people or spaces is slower 
 
 ## Related pages
 
-- [`aggression.md`](aggression.md)
-- [`guide/04-protocols/mine-protocol.md`](../04-protocols/mine-protocol.md)
+- [Aggression](aggression.md)
+- [Mine! protocol (resource guarding)](../04-protocols/mine-protocol.md)
 
 Evidence: C-03, C-11, C-22 (see [evidence/claims.md](../../evidence/claims.md))

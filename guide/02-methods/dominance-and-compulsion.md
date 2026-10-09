@@ -53,11 +53,11 @@ None for pet dogs, by current veterinary and scientific consensus.
 
 ## How to recognize it
 
-Words to listen for: alpha, pack leader, dominance, "he knows what he did", "he is being stubborn", "show him who is boss". Then read [`guide/01-start-here/when-to-get-help.md`](../01-start-here/when-to-get-help.md) and keep looking.
+Words to listen for: alpha, pack leader, dominance, "he knows what he did", "he is being stubborn", "show him who is boss". Then read [When to get help, and who to call](../01-start-here/when-to-get-help.md) and keep looking.
 
 ## Related pages
 
-- [`overview-and-comparison.md`](overview-and-comparison.md)
-- [`reward-based-training.md`](reward-based-training.md)
+- [Training methods: overview and comparison](overview-and-comparison.md)
+- [Reward-based training](reward-based-training.md)
 
 Evidence: C-03, C-06 (see [evidence/claims.md](../../evidence/claims.md))

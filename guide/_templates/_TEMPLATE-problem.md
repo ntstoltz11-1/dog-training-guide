@@ -35,11 +35,13 @@ Numbers given here are starting points. Adjust to your dog.
 - <Concrete trigger, for example a bite, or no progress after N weeks>
 - <Concrete trigger>
 
-See [`guide/01-start-here/when-to-get-help.md`](../01-start-here/when-to-get-help.md) for who to call.
+See [When to get help, and who to call](../01-start-here/when-to-get-help.md) for who to call.
 
 ## Related pages
 
-- `guide/04-protocols/<card>.md`
-- `guide/03-problems/<related>.md`
+- [Page title](../04-protocols/<card>.md)
+- [Page title](<related>.md)
+
+(Link text is the target page's title, never the file name. `maintainers/titleize.py` fixes any `file.md` link text.)
 
 Evidence: C-nn, C-nn (see [evidence/claims.md](../../evidence/claims.md))

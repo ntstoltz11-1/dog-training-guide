@@ -40,8 +40,8 @@ Most puppies are reliable by about 4 to 6 months, with occasional slips until a 
 
 ## Related pages
 
-- [`crate-training.md`](crate-training.md)
-- [`guide/05-development/puppies-and-socialization.md`](../05-development/puppies-and-socialization.md)
-- [`guide/05-development/senior-dogs.md`](../05-development/senior-dogs.md)
+- [Crate training](crate-training.md)
+- [Puppies and socialization (about 8 weeks to 6 months)](../05-development/puppies-and-socialization.md)
+- [Senior dogs](../05-development/senior-dogs.md)
 
 Evidence: C-22 (see [evidence/claims.md](../../evidence/claims.md))

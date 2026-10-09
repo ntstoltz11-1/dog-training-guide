@@ -43,3 +43,4 @@ Priority 1 core comparative studies were verified 2026-10-08 (session 03). Two f
 
 - Session 02: Wales statute; England status; Podberscek 1999; Grohmann 2013; CCPDT handbook; FAS scale (2 evaluations); Arhant 2010; Rooney and Cowan 2011; Fugazza and Miklósi 2014, 2015; ESVCE 2018; Korpivaara pilot and Hauser 2020; Chiandetti 2016, Smith and Davis 2008, Gilchrist 2021; Horowitz 2009. Hosting decided: GitHub.
 - Session 03: Hiby 2004; Blackwell 2008; Herron 2009; Cooper 2014; China 2020; Sargisson and McLean 2021 (was "Elliffe"); Vieira de Castro 2020; Mech 1999; Morrill 2022; Mills 2020; Simpson 2007; King 2000. 28 of 55 sources now verified.
+- Session 04: formatting and cleanup pass. Link text now page titles (titleize.py); sources.md link column shortened (shortlinks.py); local path and surname stripped from CLAUDE.md and linkify.py; .gitattributes added; all guide pages confirmed under 80 lines.

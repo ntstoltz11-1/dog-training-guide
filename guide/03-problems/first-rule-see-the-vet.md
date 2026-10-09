@@ -35,11 +35,11 @@ If nothing shows but the vet still suspects pain, a short course of pain relief 
 
 ## When the vet says "it's behavioral"
 
-That is a start, not an end. Ask for a referral to a veterinary behaviorist if the problem involves aggression, panic when alone, or fear that does not respond to the basics in this guide within 8 to 12 weeks. See [`guide/01-start-here/when-to-get-help.md`](../01-start-here/when-to-get-help.md).
+That is a start, not an end. Ask for a referral to a veterinary behaviorist if the problem involves aggression, panic when alone, or fear that does not respond to the basics in this guide within 8 to 12 weeks. See [When to get help, and who to call](../01-start-here/when-to-get-help.md).
 
 ## Related pages
 
-- [`guide/02-methods/lima-and-the-humane-hierarchy.md`](../02-methods/lima-and-the-humane-hierarchy.md) (the vet check is rung one)
-- [`guide/06-tools/medication-conversation-guide.md`](../06-tools/medication-conversation-guide.md)
+- [LIMA and the Humane Hierarchy](../02-methods/lima-and-the-humane-hierarchy.md) (the vet check is rung one)
+- [Talking to your vet about behavior medication](../06-tools/medication-conversation-guide.md)
 
 Evidence: C-11 (see [evidence/claims.md](../../evidence/claims.md))

@@ -1,7 +1,7 @@
 import os, re, sys
 from pathlib import Path
 
-ROOT = Path(r"C:\Users\Stoltz\Desktop\Claude Projects\Dog Training")
+ROOT = Path(__file__).resolve().parent.parent
 SKIP_DIRS = {".git", "archive", "research"}
 # backtick-wrapped path ending in .md, optionally with a trailing "(see ...)"
 PAT = re.compile(r"`([A-Za-z0-9_./\-]+\.md)`")

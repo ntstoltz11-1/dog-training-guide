@@ -13,7 +13,7 @@ Barking has a job. Find the job and you find the fix:
 | **Demand** | At you, for food, play, or attention | You respond |
 | **Fear** | At strangers, dogs, sounds, with stiff body or retreating | Distance |
 | **Boredom / frustration** | Alone in the yard, at nothing in particular | Something to do |
-| **Separation** | Starts within minutes of you leaving | See [`separation-anxiety.md`](separation-anxiety.md) |
+| **Separation** | Starts within minutes of you leaving | See [Separation anxiety](separation-anxiety.md) |
 
 ## Before you start
 
@@ -24,14 +24,14 @@ Barking has a job. Find the job and you find the fix:
 
 **Alert barking**
 1. Thank the dog ("got it") the first time it barks, call it to you, and reward. The dog learns one bark does the job.
-2. Pair the trigger with food: a dog walks past, you drop treats on the floor. The passer-by starts to predict chicken instead of a threat. Card: [`guide/04-protocols/counterconditioning-and-desensitization.md`](../04-protocols/counterconditioning-and-desensitization.md).
+2. Pair the trigger with food: a dog walks past, you drop treats on the floor. The passer-by starts to predict chicken instead of a threat. Card: [Counterconditioning and desensitization (CC/DS)](../04-protocols/counterconditioning-and-desensitization.md).
 
 **Demand barking**
 1. Barking at you gets nothing: no eye contact, no words. Turn away.
 2. Reward the dog heavily for quiet, polite ways of asking: sitting, lying down, bringing a toy. Give it the thing it wants only for those.
 3. Expect a spike for a few days. Hold firm.
 
-**Fear barking**: treat as fear, not noise. [`fear-and-noise-phobia.md`](fear-and-noise-phobia.md) and [`leash-reactivity.md`](leash-reactivity.md).
+**Fear barking**: treat as fear, not noise. [Fear, anxiety, and noise phobia](fear-and-noise-phobia.md) and [Leash reactivity (barking and lunging at dogs or people)](leash-reactivity.md).
 
 **Boredom barking**: more enrichment, food puzzles, sniffing walks, and company. The barking is a symptom.
 
@@ -48,12 +48,12 @@ Alert and demand barking: weeks. Fear barking: months, as for any fear. The exti
 ## Get help if
 
 - Barking is paired with lunging or snapping
-- Barking at night in an older dog (possible cognitive decline; see [`guide/05-development/senior-dogs.md`](../05-development/senior-dogs.md))
+- Barking at night in an older dog (possible cognitive decline; see [Senior dogs](../05-development/senior-dogs.md))
 - Neighbors are complaining and you need a fast management plan
 
 ## Related pages
 
-- [`separation-anxiety.md`](separation-anxiety.md)
-- [`fear-and-noise-phobia.md`](fear-and-noise-phobia.md)
+- [Separation anxiety](separation-anxiety.md)
+- [Fear, anxiety, and noise phobia](fear-and-noise-phobia.md)
 
 Evidence: C-22, C-24 (see [evidence/claims.md](../../evidence/claims.md))

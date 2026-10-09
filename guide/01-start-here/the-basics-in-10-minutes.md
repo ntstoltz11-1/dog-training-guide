@@ -21,7 +21,7 @@ This guide builds on the first two rows. The last two work in the short term but
 
 ## Timing is everything
 
-The reward has to arrive within about half a second of the behavior, or the dog connects it to whatever it did next. That is why trainers use a **marker**: a word like "yes" or a click that means "that, right there, treat coming." The marker buys you time to reach for the food. A click and a word work equally well; pick one and be consistent. See [`guide/04-protocols/marker-training-basics.md`](../04-protocols/marker-training-basics.md).
+The reward has to arrive within about half a second of the behavior, or the dog connects it to whatever it did next. That is why trainers use a **marker**: a word like "yes" or a click that means "that, right there, treat coming." The marker buys you time to reach for the food. A click and a word work equally well; pick one and be consistent. See [Marker training basics](../04-protocols/marker-training-basics.md).
 
 ## Rewards have value, and value depends on difficulty
 
@@ -43,7 +43,7 @@ In the one area where dogs have been tested directly, short sessions with rest b
 
 ## Stress shuts learning down
 
-A dog that is too scared or too excited to eat is not learning what you intend. The dog can be "over threshold" (past the point where it can think). Lowering the pressure is not giving up; it is the training. Stress also stacks: a vet visit, then visitors, then a dog on the walk can add up so the dog explodes at the third one. See [`body-language-and-threshold.md`](body-language-and-threshold.md).
+A dog that is too scared or too excited to eat is not learning what you intend. The dog can be "over threshold" (past the point where it can think). Lowering the pressure is not giving up; it is the training. Stress also stacks: a vet visit, then visitors, then a dog on the walk can add up so the dog explodes at the third one. See [Reading your dog: body language and threshold](body-language-and-threshold.md).
 
 ## Extinction and the burst
 
@@ -51,6 +51,6 @@ If a behavior stops paying, it gets worse before it gets better. A dog that alwa
 
 ## Dominance is not the explanation
 
-The idea that dogs misbehave to be "alpha" came from studies of unrelated wolves kept in captivity. Wild wolf packs are families. Decades of behavior science explain dog behavior through learning, fear, and what things predict, without any need for a status battle. Methods built on "being the pack leader" are covered, and not recommended, in [`guide/02-methods/dominance-and-compulsion.md`](../02-methods/dominance-and-compulsion.md).
+The idea that dogs misbehave to be "alpha" came from studies of unrelated wolves kept in captivity. Wild wolf packs are families. Decades of behavior science explain dog behavior through learning, fear, and what things predict, without any need for a status battle. Methods built on "being the pack leader" are covered, and not recommended, in [Dominance theory and compulsion training](../02-methods/dominance-and-compulsion.md).
 
 Evidence: C-01, C-02, C-06, C-08, C-25, C-35 (see [evidence/claims.md](../../evidence/claims.md))

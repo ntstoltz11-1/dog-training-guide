@@ -39,8 +39,8 @@ Any of these is a vet visit. Pain and cognitive decline often overlap; a pain tr
 
 ## Related pages
 
-- [`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md)
-- [`guide/03-problems/house-training.md`](../03-problems/house-training.md)
-- [`guide/03-problems/barking.md`](../03-problems/barking.md)
+- [First rule: see the vet](../03-problems/first-rule-see-the-vet.md)
+- [House training](../03-problems/house-training.md)
+- [Excessive barking](../03-problems/barking.md)
 
 Evidence: C-11, C-22 (see [evidence/claims.md](../../evidence/claims.md))

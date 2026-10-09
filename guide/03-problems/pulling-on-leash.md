@@ -9,7 +9,7 @@ The dog pulls because pulling works: it gets the dog where it wants to go. Every
 
 ## Before you start
 
-- Switch to a **front-clip harness**. It turns the dog back toward you when it pulls and protects the neck. Fit guide in [`guide/01-start-here/equipment.md`](../01-start-here/equipment.md).
+- Switch to a **front-clip harness**. It turns the dog back toward you when it pulls and protects the neck. Fit guide in [Equipment](../01-start-here/equipment.md).
 - Give the dog a real outlet for sniffing and exploring on a long line in a field, so walks are not the only chance to move.
 - Pick a position word ("with me") and a side.
 
@@ -31,7 +31,7 @@ Starting numbers: short training walks of 10 minutes where the only goal is the 
 
 ## How long it takes
 
-One to three months for a reliable loose leash in normal places. Hard distractions (squirrels, other dogs) take longer and overlap with [`leash-reactivity.md`](leash-reactivity.md).
+One to three months for a reliable loose leash in normal places. Hard distractions (squirrels, other dogs) take longer and overlap with [Leash reactivity (barking and lunging at dogs or people)](leash-reactivity.md).
 
 ## Get help if
 
@@ -40,8 +40,8 @@ One to three months for a reliable loose leash in normal places. Hard distractio
 
 ## Related pages
 
-- [`leash-reactivity.md`](leash-reactivity.md)
-- [`recall.md`](recall.md)
-- [`guide/01-start-here/equipment.md`](../01-start-here/equipment.md)
+- [Leash reactivity (barking and lunging at dogs or people)](leash-reactivity.md)
+- [Recall (coming when called)](recall.md)
+- [Equipment](../01-start-here/equipment.md)
 
 Evidence: C-01, C-22, C-29 (see [evidence/claims.md](../../evidence/claims.md))

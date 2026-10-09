@@ -23,7 +23,7 @@ Quality beats quantity. Every new thing should end with the puppy relaxed or cur
 | Dogs | Calm, vaccinated adult dogs; a well-run puppy class. Not a free-for-all. |
 | Surfaces and places | Grass, gravel, metal grates, stairs, cars, elevators, the vet lobby |
 | Sounds | Traffic, vacuum, thunder recordings at low volume, fireworks recordings, paired with food |
-| Handling | Paws, ears, mouth, collar grabs, being lifted, all paired with treats. Start cooperative care now ([`guide/03-problems/cooperative-care.md`](../03-problems/cooperative-care.md)). |
+| Handling | Paws, ears, mouth, collar grabs, being lifted, all paired with treats. Start cooperative care now ([Cooperative care: vet visits, nail trims, grooming](../03-problems/cooperative-care.md)). |
 | Being alone | Short, calm periods in a pen or crate with a chew, building slowly. |
 
 ## Do this
@@ -31,7 +31,7 @@ Quality beats quantity. Every new thing should end with the puppy relaxed or cur
 1. One or two new things a day, each ending well.
 2. Let the puppy choose to approach. Toss treats toward the new thing; never pull the puppy to it.
 3. If the puppy is scared, add distance and pair with food. Do not push through.
-4. Keep a checklist. [`guide/06-tools/training-log.md`](../06-tools/training-log.md).
+4. Keep a checklist. [Training log](../06-tools/training-log.md).
 5. Start manners with marker training in 2 to 3 minute sessions. Sit, come, settle. Puppies learn fast and tire faster.
 6. Protect sleep: 16 to 20 hours a day. An overtired puppy bites and cannot learn.
 
@@ -44,9 +44,9 @@ Quality beats quantity. Every new thing should end with the puppy relaxed or cur
 
 ## Related pages
 
-- [`guide/03-problems/puppy-mouthing.md`](../03-problems/puppy-mouthing.md)
-- [`guide/03-problems/house-training.md`](../03-problems/house-training.md)
-- [`guide/03-problems/crate-training.md`](../03-problems/crate-training.md)
-- [`adolescence.md`](adolescence.md)
+- [Puppy mouthing and biting](../03-problems/puppy-mouthing.md)
+- [House training](../03-problems/house-training.md)
+- [Crate training](../03-problems/crate-training.md)
+- [Adolescence (about 6 to 18 months)](adolescence.md)
 
 Evidence: C-09, C-22 (see [evidence/claims.md](../../evidence/claims.md))

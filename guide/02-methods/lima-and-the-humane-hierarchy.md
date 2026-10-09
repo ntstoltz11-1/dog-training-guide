@@ -57,7 +57,7 @@ Choosing a professional, writing a plan for a behavior problem, and deciding wha
 
 ## Related pages
 
-- [`overview-and-comparison.md`](overview-and-comparison.md)
-- [`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md)
+- [Training methods: overview and comparison](overview-and-comparison.md)
+- [First rule: see the vet](../03-problems/first-rule-see-the-vet.md)
 
 Evidence: C-05, C-11, C-27 (see [evidence/claims.md](../../evidence/claims.md))

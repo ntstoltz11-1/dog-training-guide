@@ -49,7 +49,7 @@ Re-measure every two weeks. The number that moves (distance, seconds, recovery t
 
 ## Related pages
 
-- [`measurement-sheet.md`](measurement-sheet.md)
-- [`household-plan.md`](household-plan.md)
+- [Measurement sheet: how to tell if training is working](measurement-sheet.md)
+- [Household plan: one set of rules, one set of words](household-plan.md)
 
 Evidence: none required; this is a tool.

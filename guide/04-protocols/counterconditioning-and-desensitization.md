@@ -11,7 +11,7 @@
 
 ## Setup
 
-- Find the distance or intensity where the dog notices the trigger but stays loose and will eat. That is "below threshold". [`guide/01-start-here/body-language-and-threshold.md`](../01-start-here/body-language-and-threshold.md).
+- Find the distance or intensity where the dog notices the trigger but stays loose and will eat. That is "below threshold". [Reading your dog: body language and threshold](../01-start-here/body-language-and-threshold.md).
 - Arrange the trigger so you control it: a helper who walks at a set distance, a recording at a set volume, your hand moving a set amount.
 
 ## Steps

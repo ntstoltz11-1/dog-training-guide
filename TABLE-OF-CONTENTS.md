@@ -1,6 +1,6 @@
 # Table of contents
 
-Every page in the guide, in reading order. Start with [`README.md`](README.md) if you have not.
+Every page in the guide, in reading order. Start with [The Dog Training Guide](README.md) if you have not.
 
 ## 01 Start here
 

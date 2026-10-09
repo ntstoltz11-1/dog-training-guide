@@ -16,6 +16,7 @@ The test for every sentence: **could a tired person with a barking dog read this
 | Numbers are starting points | "Start at about 5 seconds. Adjust to your dog." | Present a number as a rule. |
 | Evidence label in words | "Evidence: Moderate." | Cite authors or years inside the page. |
 | Footer only | Last line: `Evidence: C-01, C-03 (see evidence/claims.md)`. | Source tables inside the page. |
+| Links read as titles | `[Leash reactivity](leash-reactivity.md)`. Run `maintainers/linkify.py` then `titleize.py` after adding pages. | `[leash-reactivity.md](leash-reactivity.md)` or a bare file name in a reader page. |
 | Safety leads | Aggression, bites, children, muzzles: safety and referral come first. | Tips before safety. |
 | No doses | "Ask your vet about fluoxetine." | Any mg or mg/kg. |
 | Tone | Calm, direct, kind to the reader. Mistakes are normal. | Scolding, hype, or moralizing about methods. |

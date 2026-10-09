@@ -51,8 +51,8 @@ Stress adds up over hours or a day. A dog that handled the vet, then visitors, t
 
 ## Related pages
 
-- [`the-basics-in-10-minutes.md`](the-basics-in-10-minutes.md)
-- [`guide/06-tools/measurement-sheet.md`](../06-tools/measurement-sheet.md)
-- [`guide/03-problems/aggression.md`](../03-problems/aggression.md)
+- [The basics in 10 minutes](the-basics-in-10-minutes.md)
+- [Measurement sheet: how to tell if training is working](../06-tools/measurement-sheet.md)
+- [Aggression](../03-problems/aggression.md)
 
 Evidence: C-22, C-35 (see [evidence/claims.md](../../evidence/claims.md))

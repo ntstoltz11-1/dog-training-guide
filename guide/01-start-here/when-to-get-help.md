@@ -51,8 +51,8 @@ A history of the problem, a look at video you bring, a check of the dog's body l
 
 ## Related pages
 
-- [`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md)
-- [`guide/03-problems/aggression.md`](../03-problems/aggression.md)
-- [`guide/06-tools/medication-conversation-guide.md`](../06-tools/medication-conversation-guide.md)
+- [First rule: see the vet](../03-problems/first-rule-see-the-vet.md)
+- [Aggression](../03-problems/aggression.md)
+- [Talking to your vet about behavior medication](../06-tools/medication-conversation-guide.md)
 
 Evidence: C-11, C-32 (see [evidence/claims.md](../../evidence/claims.md))

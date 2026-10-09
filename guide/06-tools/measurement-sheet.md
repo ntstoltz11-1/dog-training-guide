@@ -45,11 +45,11 @@ For a before-and-after picture of your dog's overall behavior, the **C-BARQ** (C
 
 ## Record it
 
-Put the numbers in [`training-log.md`](training-log.md). Re-measure every two weeks.
+Put the numbers in [Training log](training-log.md). Re-measure every two weeks.
 
 ## Related pages
 
-- [`training-log.md`](training-log.md)
-- [`guide/01-start-here/body-language-and-threshold.md`](../01-start-here/body-language-and-threshold.md)
+- [Training log](training-log.md)
+- [Reading your dog: body language and threshold](../01-start-here/body-language-and-threshold.md)
 
 Evidence: C-33, C-35, C-36 (see [evidence/claims.md](../../evidence/claims.md))

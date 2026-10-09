@@ -34,7 +34,7 @@ Inherited health conditions (joint disease, skin allergies, eye and ear problems
 
 ## Related pages
 
-- [`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md)
-- [`puppies-and-socialization.md`](puppies-and-socialization.md)
+- [First rule: see the vet](../03-problems/first-rule-see-the-vet.md)
+- [Puppies and socialization (about 8 weeks to 6 months)](puppies-and-socialization.md)
 
 Evidence: C-07 (see [evidence/claims.md](../../evidence/claims.md))

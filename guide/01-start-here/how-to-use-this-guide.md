@@ -40,7 +40,7 @@ Dog training advice is often confident and unsupported. So every page says how s
 
 Most named training techniques are "Consensus". That does not mean they fail. It means the formal trials have not been done. We say so rather than pretend.
 
-The last line of every page looks like `Evidence: C-01, C-03`. Those are row numbers in [`evidence/claims.md`](../../evidence/claims.md), where you can see the exact study or statement. Ignore it unless you want to check our work.
+The last line of every page looks like `Evidence: C-01, C-03`. Those are row numbers in [Claims](../../evidence/claims.md), where you can see the exact study or statement. Ignore it unless you want to check our work.
 
 ## Numbers are starting points
 
@@ -48,6 +48,6 @@ When a page says "start 20 steps away" or "hold for 5 seconds", that is a sensib
 
 ## What this guide is not
 
-It is not veterinary advice, legal advice, or a substitute for a qualified professional when a dog is dangerous or in distress. [`when-to-get-help.md`](when-to-get-help.md) tells you who to call and how to choose.
+It is not veterinary advice, legal advice, or a substitute for a qualified professional when a dog is dangerous or in distress. [When to get help, and who to call](when-to-get-help.md) tells you who to call and how to choose.
 
 Evidence: C-01, C-02, C-11 (see [evidence/claims.md](../../evidence/claims.md))

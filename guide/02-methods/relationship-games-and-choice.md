@@ -15,7 +15,7 @@ A family of approaches that add structure, predictability, and dog choice on top
 | **BAT 2.0 (Behavior Adjustment Training)** | On a long line at a safe distance, the dog explores and chooses to disengage from the trigger; the handler follows rather than directs | Set-ups with a decoy at distance, "mark and move" when the dog needs help | Dog-dog and dog-human reactivity, fear |
 | **Do As I Do** | The dog learns to imitate a human action on cue ("do it!") | Owner demonstrates, dog copies | Teaching tricks and object tasks; a bonding exercise |
 
-Step cards: [`guide/04-protocols/look-at-that.md`](../04-protocols/look-at-that.md), [`pattern-games.md`](../04-protocols/pattern-games.md), [`bat-setups.md`](../04-protocols/bat-setups.md).
+Step cards: [Look at That (LAT)](../04-protocols/look-at-that.md), [Pattern games](../04-protocols/pattern-games.md), [BAT set-ups (Behavior Adjustment Training 2.0)](../04-protocols/bat-setups.md).
 
 ## How it works
 
@@ -39,7 +39,7 @@ Underneath, these use the same learning principles as the rest of the guide: pai
 
 ## Skill needed
 
-Moderate to high. The mechanics are easy; reading the dog's threshold in real time is the skill. [`guide/01-start-here/body-language-and-threshold.md`](../01-start-here/body-language-and-threshold.md) is the prerequisite.
+Moderate to high. The mechanics are easy; reading the dog's threshold in real time is the skill. [Reading your dog: body language and threshold](../01-start-here/body-language-and-threshold.md) is the prerequisite.
 
 ## Legal notes
 
@@ -57,7 +57,7 @@ Reactive and fearful dogs; adolescent dogs that cannot settle in public; any dog
 
 ## Related pages
 
-- [`overview-and-comparison.md`](overview-and-comparison.md)
-- [`guide/03-problems/leash-reactivity.md`](../03-problems/leash-reactivity.md)
+- [Training methods: overview and comparison](overview-and-comparison.md)
+- [Leash reactivity (barking and lunging at dogs or people)](../03-problems/leash-reactivity.md)
 
 Evidence: C-22, C-30 (see [evidence/claims.md](../../evidence/claims.md))

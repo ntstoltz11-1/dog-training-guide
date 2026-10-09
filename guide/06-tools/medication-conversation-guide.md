@@ -36,7 +36,7 @@ Note the placebo groups: dogs getting training alone improved a great deal. Medi
 
 ## Questions to bring to the appointment
 
-1. Have we ruled out pain and medical causes? ([`guide/03-problems/first-rule-see-the-vet.md`](../03-problems/first-rule-see-the-vet.md))
+1. Have we ruled out pain and medical causes? ([First rule: see the vet](../03-problems/first-rule-see-the-vet.md))
 2. Daily or situational, or both, for my dog's problem?
 3. What should I expect to see in the first weeks, and what are the side effects to watch for?
 4. How will we know it is working, and when would we stop or change?
@@ -52,8 +52,8 @@ Note the placebo groups: dogs getting training alone improved a great deal. Medi
 
 ## Related pages
 
-- [`guide/03-problems/separation-anxiety.md`](../03-problems/separation-anxiety.md)
-- [`guide/03-problems/fear-and-noise-phobia.md`](../03-problems/fear-and-noise-phobia.md)
-- [`guide/03-problems/cooperative-care.md`](../03-problems/cooperative-care.md)
+- [Separation anxiety](../03-problems/separation-anxiety.md)
+- [Fear, anxiety, and noise phobia](../03-problems/fear-and-noise-phobia.md)
+- [Cooperative care: vet visits, nail trims, grooming](../03-problems/cooperative-care.md)
 
 Evidence: C-15, C-16, C-17, C-18, C-19, C-20, C-21 (see [evidence/claims.md](../../evidence/claims.md))
